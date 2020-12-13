@@ -1,0 +1,100 @@
+<title>Map</title>
+
+{% extends 'base.html' %}
+{% load leaflet_tags %}
+{% load static %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load crispy_forms_filters %}
+
+{% block head_title %}
+<style>
+#map {
+    width: 100%;
+    height: 50%;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 180px;
+}
+
+
+button {
+    background: white;
+    border: solid black;
+    cursor: pointer;
+    font: 450 .75rem/1.25 'Montserrat', sans-serif;
+    margin: 0.5rem;
+    padding: 0.5em 0.75em;
+    position: relative;
+    text-transform: uppercase;
+}
+
+#campsite {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+</style>
+{% endblock %}
+
+
+{% block body_content %}
+<div>
+        <h4 style="text-align: center">Welcome to Health Clinics Ireland {{ user.username }}!</h4>
+        <h5 style="text-align: center">Your closest Health Clinics based on your current location is:</h5>
+        <div id="map">
+        </div>
+
+        <script src="{% static 'gis/js/campsites.js' %}"></script>
+        <script src="{% static 'gis/js/loadmap.js' %}"></script>
+        <script>
+
+                var actual = '{{ clinics | safe }}';
+                //console.log(actual);
+
+                var actuals = JSON.parse(actual);
+                var website;
+                console.log(actuals.length);
+                console.log(actuals[0].fields.lat);
+
+
+                document.write("<div id=\"campsite\">" +
+                                "<h1>Nearby Clinics</h1>");
+
+                for (var i = 0; i < actuals.length; i++){
+                        if (actuals[i].fields.website == 'no-webiste'){
+                                website = '""'
+                        } else {
+                                website = actuals[i].fields.website
+                        }
+
+                        document.write("<div class=\"list-group\">" +
+                                        "<a href=" +website+ " class=\"list-group-item list-group-item-action flex-column align-items-start\"><h5 class=\"mb-1\">"
+                                         + actuals[i].fields.name + "</h5>" +
+                                        "<small class=\"text-muted\">"+ actuals[i].fields.opening_hours +"</small>" +
+                                        "<p class=\"mb-1\">" +
+                                        actuals[i].fields.phone +
+                                        "</p>" +
+                                        "<p class=\"mb-1\">" +
+                                        actuals[i].fields.website +
+                                        "</p></a></div>");
+                        console.log(actuals[0].fields.name);
+
+                        L.marker([actuals[i].fields.lat, actuals[i].fields.lon]).addTo(map).bindPopup("Name:" + actuals[i].fields.name);
+                }
+
+                document.write("</div>");
+
+        </script>
+
+
+
+
+
+
+
+</div>
+
+{% endblock %}

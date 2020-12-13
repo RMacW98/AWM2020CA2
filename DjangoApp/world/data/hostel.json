@@ -1,0 +1,7658 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.7 b85c4387",
+  "osm3s": {
+    "timestamp_osm_base": "2020-12-02T15:14:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 277886721,
+      "lat": 52.5659771,
+      "lon": -8.7872248,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 278857697,
+      "lat": 53.3395516,
+      "lon": -6.266343,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "55",
+        "addr:street": "Aungier Street",
+        "name": "Avalon House",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 279778325,
+      "lat": 52.2562702,
+      "lon": -10.0208303,
+      "tags": {
+        "name": "Fitzgerald's Eurohostel",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 313686180,
+      "lat": 52.060507,
+      "lon": -9.5031649,
+      "tags": {
+        "name": "Railway Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 313948865,
+      "lat": 53.034029,
+      "lon": -9.0769675,
+      "tags": {
+        "name": "Clare's Rock Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 313948866,
+      "lat": 52.9310955,
+      "lon": -9.3458489,
+      "tags": {
+        "addr:city": "Lahinch",
+        "name": "Lahinch Hostel",
+        "phone": "+ 353 65 7081040",
+        "tourism": "hostel",
+        "website": "http://www.lahinchhostel.ie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 416128352,
+      "lat": 53.2536685,
+      "lon": -6.2842446,
+      "tags": {
+        "name": "Larch Hill Scouting Center",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 416470365,
+      "lat": 53.335442,
+      "lon": -6.2645588,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Camden Place",
+        "name": "Times Hostel",
+        "note": "FIXME Check name",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 435213413,
+      "lat": 52.2608663,
+      "lon": -7.1073692,
+      "tags": {
+        "addr:city": "Waterford",
+        "name": "Viking House",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 450249853,
+      "lat": 53.2741484,
+      "lon": -9.0474848,
+      "tags": {
+        "addr:street": "Frenchville Lane",
+        "alt_name": "Galway City Hostel",
+        "name": "The Galway Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 566627157,
+      "lat": 51.6417595,
+      "lon": -10.044026,
+      "tags": {
+        "name": "Youth Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 579036307,
+      "lat": 54.5860092,
+      "lon": -5.9401959,
+      "tags": {
+        "addr:city": "Belfast",
+        "addr:housenumber": "68",
+        "addr:postcode": "BT9 6AX",
+        "addr:street": "Fitzwilliam Street",
+        "name": "Paddy's Palace Belfast",
+        "phone": "+44 28 9033 3367",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 579036326,
+      "lat": 54.5858851,
+      "lon": -5.9391085,
+      "tags": {
+        "addr:city": "Belfast",
+        "addr:country": "GB",
+        "addr:housenumber": "63",
+        "addr:street": "Fitzwilliam Street",
+        "name": "Archie's Backpacker",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 593885260,
+      "lat": 53.2949416,
+      "lon": -6.1485784,
+      "tags": {
+        "addr:housenumber": "7",
+        "addr:postcode": "A96 HF51",
+        "addr:street": "Old Dunleary Road",
+        "contact:facebook": "https://www.facebook.com/Marina.House.Dublin/",
+        "contact:instagram": "https://www.instagram.com/marina_hostel/",
+        "email": "info@marinahostel.com",
+        "name": "Marina House",
+        "phone": "+353-1-214-8482",
+        "tourism": "hostel",
+        "website": "https://www.marinahostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 600494648,
+      "lat": 53.2727826,
+      "lon": -9.0484306,
+      "tags": {
+        "addr:street": "Queen Street",
+        "name": "Claddagh Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 622348416,
+      "lat": 53.1727678,
+      "lon": -6.2177743,
+      "tags": {
+        "name": "Knockree Youth Hostel",
+        "operator": "An Óige",
+        "phone": "+353 1 276 7981",
+        "tourism": "hostel",
+        "website": "http://anoige.ie/hostels/our-hostel-guide/knockree-youth-hostel/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 659792335,
+      "lat": 53.5927148,
+      "lon": -9.7692812,
+      "tags": {
+        "leisure": "sports_centre",
+        "name": "Killary Adventure Company",
+        "source": "Estimate, but better than half way up a mountain where it was before",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 659793142,
+      "lat": 53.5536443,
+      "lon": -9.9480378,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Cloverfox, Bar and Restaurant",
+        "tourism": "hostel",
+        "website": "http://www.bardsden.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 699612197,
+      "lat": 52.1412337,
+      "lon": -10.2680024,
+      "tags": {
+        "name": "The Hideout hostel",
+        "tourism": "hostel",
+        "website": "www.thehideouthostel.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 739756775,
+      "lat": 53.3334744,
+      "lon": -6.2652115,
+      "tags": {
+        "addr:street": "Camden Street Upper",
+        "name": "Camden Hall Hostel (Closed)",
+        "phone": "+353 1 4244111",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 759300852,
+      "lat": 53.3496638,
+      "lon": -6.2534612,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Beresford Place",
+        "email": "info@paddyspalace.com",
+        "name": "Paddy's Place Hostel",
+        "name:en": "Paddy's Palace",
+        "phone": "+353-1-8230822",
+        "tourism": "hostel",
+        "website": "http://www.paddyspalace.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 853608161,
+      "lat": 54.7176784,
+      "lon": -7.2327132,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 983384091,
+      "lat": 52.9184415,
+      "lon": -6.4128399,
+      "tags": {
+        "name": "Lugnaquilla House Hostel",
+        "phone": "+353-402-94651",
+        "tourism": "hostel",
+        "website": "http://www.lugnaquillahousehostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 987772936,
+      "lat": 53.7303083,
+      "lon": -6.8817641,
+      "tags": {
+        "name": "Kells Holiday Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1012183620,
+      "lat": 54.273676,
+      "lon": -8.473705,
+      "tags": {
+        "addr:city": "Sligo",
+        "addr:street": "Markievicz Road",
+        "name": "The White House Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1332808638,
+      "lat": 53.0679732,
+      "lon": -9.5253441,
+      "tags": {
+        "addr:city:ga": "An Baile Thíos",
+        "name": "Brú Radharc na Mara",
+        "tourism": "hostel",
+        "website": "http://www.bruhostelaran.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1335815378,
+      "lat": 52.160465,
+      "lon": -10.0284494,
+      "tags": {
+        "name": "Dingle Gate Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1340584223,
+      "lat": 52.9814102,
+      "lon": -6.0422752,
+      "tags": {
+        "name": "Captain Halpin's Bunkhouse",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1341079423,
+      "lat": 53.3483874,
+      "lon": -6.277675,
+      "tags": {
+        "name": "Generator Hostel Dublin",
+        "phone": "+35319010222",
+        "tourism": "hostel",
+        "website": "https://generatorhostels.com/destinations/dublin",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1356396175,
+      "lat": 51.9986112,
+      "lon": -9.4341085,
+      "tags": {
+        "email": "peacockhostel@eircom.net",
+        "name": "Peacock Farm Hostel",
+        "phone": "+353 (0)64 663 3557",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1361025969,
+      "lat": 52.1476943,
+      "lon": -10.2886318,
+      "tags": {
+        "addr:city": "Dingle",
+        "addr:country": "IE",
+        "addr:street": "Co. Kerry",
+        "contact:email": "info@rainbowhosteldingle.com",
+        "contact:phone": "+353 66 915 1044",
+        "name": "Rainbow Hostel Dingle",
+        "tourism": "hostel",
+        "website": "http://www.rainbowhosteldingle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1362937691,
+      "lat": 51.8627779,
+      "lon": -9.7091101,
+      "tags": {
+        "name": "Greenwood Hostel",
+        "phone": "+353 89 208 1009",
+        "tourism": "hostel",
+        "website": "https://greenwoodhostel.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1380688631,
+      "lat": 52.5708949,
+      "lon": -9.8610664,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "The Lighthouse Inn",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1407572045,
+      "lat": 53.8003964,
+      "lon": -9.52413,
+      "tags": {
+        "name": "The Old Mill Holiday Hostel",
+        "operator": "Carr",
+        "tourism": "hostel",
+        "website": "http://www.oldmillhostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1430186970,
+      "lat": 51.9026294,
+      "lon": -8.4659591,
+      "tags": {
+        "addr:city": "Cork",
+        "addr:housenumber": "3-4",
+        "addr:postcode": "T23 XF95",
+        "addr:street": "Belgrave Place",
+        "contact:email": "info@sheilashostel.ie",
+        "contact:fax": "+353-21-4500-940",
+        "contact:phone": "+353-21-4505-562",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sheilas Hostel",
+        "old_name": "Scoil Íte",
+        "tourism": "hostel",
+        "website": "http://www.sheilashostel.ie/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1450473314,
+      "lat": 53.2766914,
+      "lon": -9.0505277,
+      "tags": {
+        "name": "Sleepzone",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1460508190,
+      "lat": 53.3559356,
+      "lon": -6.268339,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "61",
+        "addr:street": "Mountjoy Street",
+        "guest_house": "hostel",
+        "name": "Dublin International Hostel (Closed)",
+        "operator": "An Óige",
+        "phone": "+353-1-882-2561",
+        "tourism": "hostel",
+        "website": "https://anoige.ie/dublin-international-hostel/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1469413981,
+      "lat": 53.2712567,
+      "lon": -9.0541188,
+      "tags": {
+        "name": "Barnacles",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1484694624,
+      "lat": 53.3437653,
+      "lon": -6.2697266,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "2-12",
+        "addr:street": "Lord Edward Street",
+        "name": "Kinlay House",
+        "tourism": "hostel",
+        "website": "http://www.kinlaydublin.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1489952341,
+      "lat": 53.594813,
+      "lon": -9.7824173,
+      "tags": {
+        "name": "The Connemara Hostel",
+        "operator": "Sleepzone",
+        "phone": "+353 (0)95 42929",
+        "tourism": "hostel",
+        "website": "https://www.sleepzone.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1496777389,
+      "lat": 52.3067241,
+      "lon": -7.499615,
+      "tags": {
+        "designation": "Hostel",
+        "name": "Rathgormack Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1498471155,
+      "lat": 53.3323866,
+      "lon": -6.2633845,
+      "tags": {
+        "addr:housenumber": "3-6",
+        "addr:street": "Charlemont Street",
+        "name": "Citi Hostel",
+        "tourism": "hostel",
+        "website": "http://www.citihostels.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1500049815,
+      "lat": 51.9946253,
+      "lon": -9.8577902,
+      "tags": {
+        "amenity": "pub",
+        "name": "The Climber's Inn",
+        "operator": "Independent",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1501651357,
+      "lat": 51.8792516,
+      "lon": -9.581245,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1551448263,
+      "lat": 52.1401512,
+      "lon": -10.2692458,
+      "tags": {
+        "name": "Hideout Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1551579311,
+      "lat": 51.7530799,
+      "lon": -9.5581646,
+      "tags": {
+        "name": "Humming Bird",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1682179182,
+      "lat": 54.21393,
+      "lon": -5.8870822,
+      "tags": {
+        "name": "YMCA",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1730262545,
+      "lat": 52.0327976,
+      "lon": -10.0777616,
+      "tags": {
+        "designation": "Caitin's Hostel",
+        "name": "Caitin's",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1738672198,
+      "lat": 54.272793,
+      "lon": -8.4809982,
+      "tags": {
+        "name": "Railway Hostel",
+        "source": "Garmin",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1771555716,
+      "lat": 51.5366945,
+      "lon": -9.2481655,
+      "tags": {
+        "addr:city": "Skibbereen",
+        "addr:street": "Castletownsend Road",
+        "contact:phone": "+353 28 22451",
+        "name": "Russagh Mills Hostel & Adventure Centre",
+        "tourism": "hostel",
+        "website": "https://www.russaghmillhostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1789909113,
+      "lat": 54.2894,
+      "lon": -9.3749648,
+      "tags": {
+        "email": "jadehughes2001@yahoo.com",
+        "name": "Donmar Cottage",
+        "phone": "+353 86 8739963",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1809978663,
+      "lat": 53.4875257,
+      "lon": -10.0211231,
+      "tags": {
+        "name": "Clifden Town Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1830697415,
+      "lat": 51.7701452,
+      "lon": -10.0990254,
+      "tags": {
+        "name": "Travellers Rest",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1965496517,
+      "lat": 54.7055647,
+      "lon": -8.7416873,
+      "tags": {
+        "guest_house": "hostel",
+        "name": "Dooey Hostel",
+        "smoking": "outside",
+        "source": "Bing",
+        "tourism": "hostel",
+        "website": "http://www.glencolmcille.ie/dooey.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2263121889,
+      "lat": 53.4706989,
+      "lon": -9.8426407,
+      "tags": {
+        "email": "info@anoige.ie",
+        "name": "Ben Lettery Hostel",
+        "phone": "+353 86 84 93 712",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2336822716,
+      "lat": 53.7859555,
+      "lon": -7.2621834,
+      "tags": {
+        "name": "Orchard Cottage",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2405362034,
+      "lat": 52.0593498,
+      "lon": -9.5105776,
+      "tags": {
+        "addr:city": "Killarney",
+        "addr:street": "New Street",
+        "email": "neptunes@eircom.net",
+        "name": "Neptune's Hostel",
+        "phone": "+353646635255",
+        "source": "GPS",
+        "tourism": "hostel",
+        "website": "http://www.neptuneshostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2409497556,
+      "lat": 52.0587233,
+      "lon": -9.5134093,
+      "tags": {
+        "name": "Paddy's Palace",
+        "source": "survey",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2447138898,
+      "lat": 54.0615116,
+      "lon": -8.2989666,
+      "tags": {
+        "addr:city": "Lough Arrow",
+        "addr:housename": "Rock House",
+        "addr:street": "Ballynary",
+        "name": "Arrowrock Lodge",
+        "operator": "Craig & Mary",
+        "phone": "+353 71 9666073",
+        "source": "Owner",
+        "tourism": "hostel",
+        "website": "http://www.arrowrocklodge.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2452244790,
+      "lat": 52.1332575,
+      "lon": -10.2633119,
+      "tags": {
+        "name": "Est View",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2477489735,
+      "lat": 54.040154,
+      "lon": -6.1864989,
+      "tags": {
+        "name": "Carlingford Adventure Centre",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2519134262,
+      "lat": 53.3327246,
+      "lon": -9.8869386,
+      "tags": {
+        "name": "Barbara Burke 's cottage",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2531563570,
+      "lat": 53.3564014,
+      "lon": -6.2659453,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "5",
+        "addr:street": "Blessington Street",
+        "name": "The Dublin Central Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2574545665,
+      "lat": 53.2745832,
+      "lon": -9.0518042,
+      "tags": {
+        "addr:city": "Galway",
+        "addr:street": "Eglinton Street",
+        "name": "The Savoy Hostel",
+        "phone": "+353 (0)91 375 421",
+        "tourism": "hostel",
+        "website": "http://www.galwayhostel.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2574552912,
+      "lat": 53.3453301,
+      "lon": -6.261747,
+      "tags": {
+        "name": "Oliver St John Gogarty's Hostel",
+        "phone": "+353-1-6711822",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2579029460,
+      "lat": 53.3556031,
+      "lon": -6.2644268,
+      "tags": {
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2579036747,
+      "lat": 53.3555143,
+      "lon": -6.2641318,
+      "tags": {
+        "name": "Backpackers Ireland",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2579089712,
+      "lat": 53.3562178,
+      "lon": -6.259863,
+      "tags": {
+        "name": "Lyndon House B&B",
+        "tourism": "hostel",
+        "website": "http://www.lyndonhouse.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2622584907,
+      "lat": 52.0752566,
+      "lon": -9.6208346,
+      "tags": {
+        "addr:city": "Killarney",
+        "addr:housename": "Gortacollopa",
+        "addr:street": "Fossa",
+        "name": "Dunloe View Hostel",
+        "phone": "+353646644187",
+        "tourism": "hostel",
+        "website": "http://www.dunloeviewhostel.ie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2694308348,
+      "lat": 54.6353213,
+      "lon": -8.6256774,
+      "tags": {
+        "email": "derrylahan@eircom.net",
+        "name": "Derrylahan Independent Hostel",
+        "phone": "+353 749738079",
+        "tourism": "hostel",
+        "website": "http://www.derrylahanhostel.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2697052783,
+      "lat": 52.5201875,
+      "lon": -7.8963202,
+      "tags": {
+        "name": "O'Briens Holiday Lodge",
+        "tourism": "hostel",
+        "website": "http://www.cashel-lodge.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2823445901,
+      "lat": 52.1662796,
+      "lon": -10.4062393,
+      "tags": {
+        "name": "Cig an Saorsaig",
+        "smoking": "no",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2884020102,
+      "lat": 52.8304948,
+      "lon": -6.935905,
+      "tags": {
+        "name": "Otterholt Riverside Lodge",
+        "phone": "+353 59 913 0404",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2893703804,
+      "lat": 51.8952983,
+      "lon": -8.4747164,
+      "tags": {
+        "addr:city": "Cork",
+        "addr:housename": "Blackmore Court Accommodation",
+        "addr:street": "Blackmore Lane",
+        "alt_name": "Blackmore Court Accommodation",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Blackmore Court",
+        "phone": "+353 85 765 2700",
+        "source": "Local knowledge",
+        "tourism": "hostel",
+        "website": "http://www.blackmorecourt.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2975395433,
+      "lat": 52.0601041,
+      "lon": -9.5064038,
+      "tags": {
+        "addr:city": "Killarney",
+        "breakfast": "yes",
+        "name": "Sugan Hostel",
+        "phone": "+353-87-718-8237",
+        "tourism": "hostel",
+        "website": "http://www.suganhostelkillarney.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2987683034,
+      "lat": 54.0126872,
+      "lon": -9.9697369,
+      "tags": {
+        "name": "The Valley House",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3019001405,
+      "lat": 53.8038072,
+      "lon": -9.9496939,
+      "tags": {
+        "addr:city": "Westport",
+        "addr:street": "Capnagower",
+        "contact:facebook": "http://www.facebook.com/goexplorehostel",
+        "contact:google_plus": "https://plus.google.com/114244982800124641704",
+        "contact:linkedin": "http://ie.linkedin.com/pub/carl-o-grady/3b/672/9b",
+        "contact:tripadvisor": "http://www.tripadvisor.com/Hotel_Review-g1800632-d3343008-Reviews-Go_Explore_Hostel-Clare_Island_County_Mayo.html",
+        "contact:twitter": "http://twitter.com/goexplorehostel",
+        "email": "stay@goexplorehostel.ie",
+        "fee": "yes",
+        "internet_access": "wlan",
+        "name": "Go Explore Hostel",
+        "name:en": "Go Explore Hostel",
+        "phone": "+353-98-26307",
+        "tourism": "hostel",
+        "website": "http://www.goexplorehostel.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3162664039,
+      "lat": 53.3322897,
+      "lon": -6.2677776,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "21",
+        "addr:street": "Harrington Street",
+        "name": "Harrington House Hostel",
+        "phone": "+353 1 475 4008",
+        "tourism": "hostel",
+        "website": "http://harringtonhousedublin.weebly.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3336614247,
+      "lat": 52.9916846,
+      "lon": -6.3083474,
+      "tags": {
+        "designation": "Hostel",
+        "name": "Derrybawn Mountain Lodge",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3475951378,
+      "lat": 53.3474492,
+      "lon": -6.2612489,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "2-4",
+        "addr:street": "Litton Lane",
+        "email": "liffey@skybackpackers.com",
+        "fax": "+353 1 872 0039",
+        "name": "Sky Backpackers",
+        "phone": "+353 1 8728389",
+        "tourism": "hostel",
+        "website": "https://www.skybackpackers.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3641701493,
+      "lat": 53.3546901,
+      "lon": -6.2605686,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "42",
+        "addr:street": "North Great George's Street",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "MEC Hostel",
+        "smoking": "isolated",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3653279820,
+      "lat": 52.5162098,
+      "lon": -7.8878671,
+      "tags": {
+        "name": "International Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3661022027,
+      "lat": 54.5853633,
+      "lon": -5.9299083,
+      "tags": {
+        "addr:housenumber": "121",
+        "addr:street": "Fitzroy Avenue",
+        "email": "manager@laganbackpackers.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Lagan Backpackers",
+        "phone": "+44 (0)28 951 40049",
+        "smoking": "separated",
+        "source": "survey",
+        "tourism": "hostel",
+        "website": "www.laganbackpackers.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3743164204,
+      "lat": 51.9031503,
+      "lon": -8.4751421,
+      "tags": {
+        "addr:street": "Bob and Joan's Walk",
+        "internet_access": "wlan",
+        "name": "Kinlay House",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3802726493,
+      "lat": 53.3451294,
+      "lon": -6.2642429,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "19",
+        "addr:street": "Temple Lane South",
+        "name": "Barnacles Hostel Temple Bar",
+        "phone": "+353 1 6716277",
+        "tourism": "hostel",
+        "website": "https://www.barnacles.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4000554876,
+      "lat": 53.7452343,
+      "lon": -7.1213889,
+      "tags": {
+        "name": "Loughcrew Megalithic Hostel",
+        "smoking": "no",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4231439701,
+      "lat": 54.6934252,
+      "lon": -6.6514335,
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:street": "University Street",
+        "name": "Global Village",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4233786492,
+      "lat": 54.7953307,
+      "lon": -8.281271,
+      "tags": {
+        "name": "Glenties",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4250036989,
+      "lat": 54.631088,
+      "lon": -8.3646617,
+      "tags": {
+        "name": "Blue Moon Hostel and Camping",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4281177295,
+      "lat": 53.3457503,
+      "lon": -6.257579,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "College Street",
+        "email": "college@timeshostels.com",
+        "name": "The Times",
+        "phone": "+353-1-6753652",
+        "tourism": "hostel",
+        "website": "https://college.timeshostels.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4287835369,
+      "lat": 51.844462,
+      "lon": -10.3240831,
+      "tags": {
+        "name": "Skelligs view B&B",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4307051701,
+      "lat": 51.9014301,
+      "lon": -8.4660339,
+      "tags": {
+        "addr:housenumber": "57",
+        "addr:street": "MacCurtain Street",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Brú Bar & Hostel",
+        "phone": "+353-21-4559667",
+        "tourism": "hostel",
+        "website": "https://www.bruhostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4332547089,
+      "lat": 52.2690212,
+      "lon": -9.7013484,
+      "tags": {
+        "name": "Castle Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4370160096,
+      "lat": 52.9900339,
+      "lon": -9.2194952,
+      "tags": {
+        "name": "Kilfenora Hostel",
+        "name:en": "Kilfenora Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4378143885,
+      "lat": 51.948031,
+      "lon": -10.2207532,
+      "tags": {
+        "name": "Sive",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4388230605,
+      "lat": 54.5874377,
+      "lon": -5.9360214,
+      "tags": {
+        "internet_access": "yes",
+        "name": "Vagabonds Belfast Hostel",
+        "tourism": "hostel",
+        "website": "http://www.vagabondsbelfast.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4388259537,
+      "lat": 53.2761779,
+      "lon": -9.0534948,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Saint Vincent's Avenue",
+        "name": "Salmon Weir Hostel Galway",
+        "tourism": "hostel",
+        "website": "http://www.salmonweirhostel.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4409959691,
+      "lat": 54.2704769,
+      "lon": -8.4816778,
+      "tags": {
+        "name": "The Beehive",
+        "name:en": "The Beehive",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4440780289,
+      "lat": 54.5860806,
+      "lon": -5.9291866,
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:street": "University Street",
+        "name": "Global Village",
+        "name:en": "Global Village",
+        "phone": "+44 28 9031 3533",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4451119901,
+      "lat": 53.3410449,
+      "lon": -6.2768871,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:postcode": "D08 VY00",
+        "addr:street": "Garden Lane",
+        "name": "Garden Lane Backpackers",
+        "operator": "Canbe",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4464797197,
+      "lat": 53.6197462,
+      "lon": -9.8593504,
+      "tags": {
+        "addr:postcode": "H91 C6P5",
+        "email": "juliamortimer64ju@gmail.com",
+        "name": "Killary Harbour Hostel",
+        "name:en": "Killary Harbour Hostel",
+        "phone": "+353-95-43933",
+        "tourism": "hostel",
+        "website": "http://www.killaryharbourhostel.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794468121,
+      "lat": 53.3517169,
+      "lon": -6.254835,
+      "tags": {
+        "name:zh": "海泽布鲁克旅馆",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4918756168,
+      "lat": 52.2512097,
+      "lon": -10.0209662,
+      "tags": {
+        "name": "Kellihers B&B",
+        "tourism": "hostel",
+        "website": "http://www.kellihersbandb.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4936484021,
+      "lat": 53.9744789,
+      "lon": -8.2800517,
+      "tags": {
+        "name": "Doon Lodge farm",
+        "name:en": "Doon Lodge farm",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4940498423,
+      "lat": 53.3476107,
+      "lon": -6.2693061,
+      "tags": {
+        "addr:housenumber": "5",
+        "addr:street": "Mary's Abbey",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4962612065,
+      "lat": 52.0599902,
+      "lon": -9.4830061,
+      "tags": {
+        "addr:city": "Killarney",
+        "addr:street": "Cork Road",
+        "name": "3 Lakes Hostel",
+        "phone": "+353 64 662 6200",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4978979551,
+      "lat": 53.4895458,
+      "lon": -9.7409933,
+      "tags": {
+        "name": "Connemara Mountain Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5012585954,
+      "lat": 52.1409786,
+      "lon": -10.2679119,
+      "tags": {
+        "email": "hostel@grapevinedingle.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Grapewine Hostel",
+        "phone": "+353 66 915 1434",
+        "tourism": "hostel",
+        "website": "http://www.grapevinedingle.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5012620338,
+      "lat": 52.0582869,
+      "lon": -9.5152518,
+      "tags": {
+        "addr:city": "Killarney",
+        "addr:housenumber": "68",
+        "addr:street": "New Street",
+        "email": "info@blacksheephostel.ie",
+        "name": "The Black Sheep Hostel",
+        "phone": "+353 64 663 8746",
+        "tourism": "hostel",
+        "website": "http://blacksheephostel.ie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5060876925,
+      "lat": 52.195431,
+      "lon": -10.353715,
+      "tags": {
+        "name": "an sanctur",
+        "name:en": "an sanctur",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5109731223,
+      "lat": 54.7776938,
+      "lon": -5.7539729,
+      "tags": {
+        "addr:housenumber": "48",
+        "addr:street": "Hillhead Road",
+        "internet_access": "wlan",
+        "name": "Drumgart B&B",
+        "name:de": "Drumgart B&B",
+        "name:en": "Drumgart B&B",
+        "phone": "00442893353507",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5678599936,
+      "lat": 54.5892426,
+      "lon": -5.9357936,
+      "tags": {
+        "addr:city": "Belfast",
+        "addr:housenumber": "22-32",
+        "addr:postcode": "BT12 5JN",
+        "addr:street": "Donegall Road",
+        "name": "Belfast International Youth Hostel",
+        "operator": "Hostelling International Northern Ireland",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5732260598,
+      "lat": 52.3585026,
+      "lon": -8.471387,
+      "tags": {
+        "name": "Ballyhoura Luxury Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6013341785,
+      "lat": 54.1047473,
+      "lon": -6.1911786,
+      "tags": {
+        "addr:street": "Kilbroney Road",
+        "name": "Kilbroney Youth Centre C.O.I",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6264068187,
+      "lat": 53.2712276,
+      "lon": -9.0540446,
+      "tags": {
+        "name": "Snoozles",
+        "name:en": "Snoozles quay street tourist hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6502223528,
+      "lat": 52.3403588,
+      "lon": -8.116799,
+      "tags": {
+        "name": "Mountain Lodge",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6534491949,
+      "lat": 54.2795013,
+      "lon": -9.3704459,
+      "tags": {
+        "guest_house": "hostel",
+        "name": "Burkes of Ballycastle",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6618625292,
+      "lat": 53.2928213,
+      "lon": -9.0878774,
+      "tags": {
+        "name": "Winacre Lodge",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6637220324,
+      "lat": 51.7500884,
+      "lon": -9.5498266,
+      "tags": {
+        "addr:city": "Glengarriff",
+        "addr:postcode": "P75 DP90",
+        "addr:street": "Main Street",
+        "name": "Blue Pool Hostel",
+        "phone": "+353 87 911 2050",
+        "tourism": "hostel",
+        "website": "https://bluepoolhostel.ie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7579295789,
+      "lat": 52.2672173,
+      "lon": -7.7147432,
+      "tags": {
+        "name": "Ballymacarbry Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7836141070,
+      "lat": 51.9027241,
+      "lon": -8.4547231,
+      "tags": {
+        "addr:city": "Cork",
+        "addr:housenumber": "111",
+        "addr:street": "Lower Glanmire Road",
+        "guest_house": "hostel",
+        "name": "Oscar’s Hostel",
+        "phone": "+353 21 241 8380",
+        "rooms": "9",
+        "tourism": "hostel",
+        "website": "http://oscarshostel.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 76127920,
+      "nodes": [
+        898010430,
+        898010457,
+        898010480,
+        898010425,
+        898010430
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "The Boghill Centre",
+        "tourism": "hostel",
+        "website": "https://www.boghill.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 114130645,
+      "nodes": [
+        1293291016,
+        1293291019,
+        1293291018,
+        2418760024,
+        1293291017,
+        2418760026,
+        1293291016
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Django's",
+        "operator": "Pa Finucane",
+        "phone": "+35387 256 9348",
+        "tourism": "hostel",
+        "website": "https://www.djangoshostel.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 145806345,
+      "nodes": [
+        1591440836,
+        1591440834,
+        1591440833,
+        2580670954,
+        2580670956,
+        1591440838,
+        1591440836
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Glenmalure Hostel",
+        "operator": "An Óige",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 148001881,
+      "nodes": [
+        1611102389,
+        1611102397,
+        1611102395,
+        1611102394,
+        1611102391,
+        1762595123,
+        1611102386,
+        1611102389
+      ],
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Upper Dominick Street",
+        "building": "yes",
+        "name": "Nimmos Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 162470713,
+      "nodes": [
+        1743526276,
+        1743526275,
+        1743497908,
+        8072818902,
+        1743497898,
+        8058706976,
+        8058706977,
+        1743497887,
+        1743497879,
+        1743526274,
+        1743526276
+      ],
+      "tags": {
+        "addr:city": "Galway",
+        "addr:street": "Victoria Place",
+        "building": "yes",
+        "name": "Kinlay House",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 177429424,
+      "nodes": [
+        1878846569,
+        1878846567,
+        1878846591,
+        1878846592,
+        1878846577,
+        1878846579,
+        1878846570,
+        1878846575,
+        1878846566,
+        1878846565,
+        1878846569
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kilcommon Lodge Holiday Hostel",
+        "source": "bing",
+        "tourism": "hostel",
+        "website": "http://kilcommonlodge.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185719900,
+      "nodes": [
+        1963769336,
+        1963769343,
+        1963769345,
+        1963769338,
+        1963769336
+      ],
+      "tags": {
+        "building": "yes",
+        "email": "info@ionadsiul.ie",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Ionad Siúl",
+        "operator": "Charlie Mc Guire",
+        "phone": "+353879709247",
+        "tourism": "hostel",
+        "website": "http://www.ionadsiul.ie/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 189252923,
+      "nodes": [
+        1998961299,
+        1998961280,
+        1998961370,
+        1998961288,
+        1998961317,
+        1998961345,
+        1998961350,
+        1998961338,
+        1998961300,
+        1998961322,
+        1998961299
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Cape Clear Hostel",
+        "operator": "An Óige",
+        "source": "Bing",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 199289339,
+      "nodes": [
+        2093016717,
+        2093016714,
+        2093016707,
+        2093016712,
+        2093016711,
+        2094174142,
+        2093016700,
+        2093016706,
+        2093016719,
+        2093016720,
+        2094174144,
+        2093016724,
+        2093016718,
+        2093016717
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Malin Beg Hostel",
+        "name:en": "Malin Beg Hostel",
+        "name:ga": "Brú na Málainn Bhig",
+        "operator": "Frank Craig",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 201493694,
+      "nodes": [
+        2114896300,
+        2114896299,
+        2114896302,
+        2114896304,
+        2114896303,
+        2114896306,
+        2114896301,
+        2114896305,
+        2114896300
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Donegal Town Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208114366,
+      "nodes": [
+        2184308069,
+        2184308094,
+        2184308121,
+        2184308095,
+        2184308069
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Kenmare hostel",
+        "source": "bing",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208114491,
+      "nodes": [
+        2184308045,
+        2184307997,
+        2184307999,
+        2184308058,
+        2184308094,
+        2184308069,
+        2184308045
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Kenmare hostel",
+        "source": "bing",
+        "tourism": "hostel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 211849233,
+      "nodes": [
+        2217937021,
+        2217937020,
+        2217937013,
+        2217937015,
+        2217937019,
+        2217937017,
+        2217937021
+      ],
+      "tags": {
+        "building": "commercial",
+        "name": "The Nest",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213526383,
+      "nodes": [
+        2232048530,
+        2232048471,
+        2232048502,
+        2232048488,
+        2232048516,
+        2232048506,
+        2232048531,
+        2232048472,
+        2232048530
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Rainbow Hostel",
+        "phone": "00 353 (0)65 7074415",
+        "tourism": "hostel",
+        "website": "http://rainbowhostel.net/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213526387,
+      "nodes": [
+        2232048501,
+        2232048458,
+        2232048509,
+        2232048525,
+        2232048468,
+        2232048493,
+        2232048501
+      ],
+      "tags": {
+        "building": "yes",
+        "email": "enquiries@flanaganshostel.com",
+        "name": "Flanagan's Village Hostel",
+        "name:en": "Flanagan's Village Hostel",
+        "phone": "+353(0)657074564",
+        "tourism": "hostel",
+        "website": "http://www.flanaganshostel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213537648,
+      "nodes": [
+        2232129837,
+        2232129823,
+        4699222820,
+        2232129702,
+        6863798106,
+        2232129766,
+        2232129837
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "Aille River Hostel",
+        "phone": "+353 65 707 4260",
+        "tourism": "hostel",
+        "website": "https://www.ailleriverhosteldoolin.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 213538894,
+      "nodes": [
+        2232140211,
+        4860261989,
+        2232140263,
+        2232140213,
+        2232140216,
+        2232140238,
+        2232140258,
+        2232140211
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Doolin Inn",
+        "tourism": "hostel",
+        "website": "http://www.doolinhostel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 227401797,
+      "nodes": [
+        2360889698,
+        2360889708,
+        2360889711,
+        2360889710,
+        2360889712,
+        2360889709,
+        2360889698
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Doolin Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 227766037,
+      "nodes": [
+        2263316653,
+        2263316651,
+        2364274691,
+        2364274694,
+        2364274678,
+        2364274655,
+        2263316653
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "29",
+        "addr:street": "Bachelors Walk",
+        "building": "hostel",
+        "building:levels": "5",
+        "name": "Abbey Court",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 228195482,
+      "nodes": [
+        2368289002,
+        2368289009,
+        2368289016,
+        2368289012,
+        2368289002
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "19-20",
+        "addr:street": "D'Olier Street",
+        "building": "yes",
+        "building:levels": "5",
+        "name": "Ashfield House",
+        "roof:shape": "gabled",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233487757,
+      "nodes": [
+        2418676863,
+        2418676870,
+        2418676859,
+        2418676857,
+        2418676856,
+        2418676866,
+        2418676864,
+        2418676855,
+        2418676853,
+        2418676863
+      ],
+      "tags": {
+        "building": "hostel",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Isaac's",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 735",
+        "tourism": "hostel",
+        "website": "http://www.isaacs.ie/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233919527,
+      "nodes": [
+        2422336788,
+        7956312642,
+        2422336764,
+        2422336778,
+        2422336782,
+        678572229,
+        2422336805,
+        2422336788
+      ],
+      "tags": {
+        "addr:city": "Kilkenny",
+        "addr:housenumber": "24",
+        "addr:street": "Vicar Street",
+        "building": "commercial",
+        "building:colour": "#339966",
+        "building:levels": "2",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "MacGabhainn's Backpacker Hostel",
+        "operator": "Raymond Smyth",
+        "roof:shape": "hipped",
+        "rooms": "7",
+        "source": "Bing",
+        "tourism": "hostel",
+        "website": "http://macgabhainnsbackpackers.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237513306,
+      "nodes": [
+        2454044914,
+        2454044936,
+        2454044934,
+        2454044922,
+        2454044940,
+        2454044930,
+        2454044912,
+        2454044920,
+        2454044914
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Meelmore Lodge",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 237530811,
+      "nodes": [
+        2454194900,
+        2454194537,
+        2454194535,
+        2454194936,
+        2454195260,
+        2454195363,
+        2454194900
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Lynham's Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 238190413,
+      "nodes": [
+        2460425490,
+        2460425493,
+        2460425496,
+        2460425497,
+        2460425499,
+        2460425498,
+        2460425495,
+        2460425494,
+        2460425490
+      ],
+      "tags": {
+        "building": "yes",
+        "fax": "+353 66 915 6355",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Dún Chaoin Hostel",
+        "opening_hours": "Mar 1-Oct 31: 09:00-22:00",
+        "operator": "An Óige",
+        "phone": "+353 66 915 6121",
+        "tourism": "hostel",
+        "website": "https://anoige.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243484111,
+      "nodes": [
+        2508816241,
+        2508816316,
+        2508816346,
+        2508816335,
+        2508816077,
+        2508816158,
+        2508815823,
+        2508816376,
+        2508815970,
+        6966626683,
+        2508816483,
+        2508816028,
+        2508816460,
+        2508816241
+      ],
+      "tags": {
+        "building": "yes",
+        "guest_house": "hostel",
+        "name": "Letterfrack Lodge - Connemara National Park Hostel",
+        "tourism": "hostel",
+        "website": "http://www.letterfracklodge.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 243773683,
+      "nodes": [
+        2511399707,
+        2511399877,
+        2511399652,
+        2511399684,
+        2511399614,
+        2511399812,
+        2511399645,
+        2511399702,
+        2511399707
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Old Monastery Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 244634496,
+      "nodes": [
+        2519299110,
+        2519299107,
+        2519299104,
+        2519299127,
+        2519299122,
+        2519299186,
+        2519299110
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Ellis House",
+        "name:en": "Ellis House",
+        "phone": "+353-87-2414169",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252286410,
+      "nodes": [
+        2583736326,
+        2583736330,
+        2583736312,
+        2583736306,
+        2583736326
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Harbour House Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252546144,
+      "nodes": [
+        2585762986,
+        2585762988,
+        2585762989,
+        2585762987,
+        2585762986
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "80",
+        "addr:street": "Gardiner Street Lower",
+        "building": "yes",
+        "name": "City Manor Accommodation",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252809421,
+      "nodes": [
+        2588339892,
+        2588339895,
+        2588339900,
+        2588324895,
+        2588339890,
+        2588339892
+      ],
+      "tags": {
+        "addr:housenumber": "146",
+        "addr:street": "Parnell Street",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "Egali Hostel",
+        "phone": "+353-1-5580882",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 254369848,
+      "nodes": [
+        2601647329,
+        2601647076,
+        2601647071,
+        2601647346,
+        2601647172,
+        2601647213,
+        2601647313,
+        2601647192,
+        2601647294,
+        2601647271,
+        2601647329
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sea View House",
+        "tourism": "hostel",
+        "website": "http://www.seaviewhousekerry.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 256826162,
+      "nodes": [
+        2624576023,
+        5218141344,
+        5218141345,
+        2624576031,
+        5218141346,
+        5218141347,
+        5218141348,
+        5218141349,
+        5218141350,
+        5218141351,
+        2624576039,
+        5218141352,
+        2624575982,
+        2624575980,
+        5218141355,
+        5218141354,
+        5218141353,
+        2624576019,
+        2624576003,
+        2624576000,
+        2624576012,
+        2624576002,
+        2624576023
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Lough Melvin Holiday Centre",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 267576053,
+      "nodes": [
+        2730134646,
+        2730134663,
+        2730134668,
+        2730134674,
+        2730134671,
+        2730134666,
+        2730134686,
+        2730134696,
+        2730134649,
+        2730134643,
+        2730134672,
+        2730134690,
+        2730134637,
+        2730134640,
+        2730134694,
+        2730134659,
+        2730134633,
+        2730134657,
+        2730134646
+      ],
+      "tags": {
+        "addr:city": "Midleton",
+        "addr:street": "Drury's Avenue",
+        "building": "yes",
+        "name": "An Stór",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 274036080,
+      "nodes": [
+        2788172517,
+        2788172523,
+        2788172524,
+        2788172527,
+        2788172528,
+        2788172530,
+        2788172531,
+        2788172515,
+        2788172514,
+        2788172513,
+        2788172517
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "7-9",
+        "addr:street": "Aston Quay",
+        "building": "commercial",
+        "building:levels": "4",
+        "email": "stay@abigailshostel.com",
+        "fax": "+353-1-6779007",
+        "name": "Abigail's Hostel",
+        "phone": "+353-1-6779300",
+        "tourism": "hostel",
+        "website": "http://abigailshostel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281357157,
+      "nodes": [
+        2853176576,
+        2853176582,
+        2853176583,
+        2386544551,
+        2853176579,
+        2853176576
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "29",
+        "addr:street": "Eustace Street",
+        "building": "yes",
+        "name": "Apache Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281772553,
+      "nodes": [
+        2857572640,
+        2857572641,
+        2857572642,
+        2857572643,
+        2857572644,
+        2857572647,
+        2857572640
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "57",
+        "addr:street": "York Street",
+        "building": "yes",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 287307567,
+      "nodes": [
+        2909293729,
+        2909293731,
+        2909293730,
+        2909293728,
+        2909293729
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290161582,
+      "nodes": [
+        2936996417,
+        2936996419,
+        2936996418,
+        2936996415,
+        2936996417
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290161583,
+      "nodes": [
+        2936996401,
+        2936996410,
+        2936996407,
+        2936995800,
+        2936996401
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 290161584,
+      "nodes": [
+        2936996416,
+        2936996412,
+        2936996408,
+        2936996411,
+        2936996413,
+        2936996414,
+        2936996416
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 293536735,
+      "nodes": [
+        2971434042,
+        2971434052,
+        2971434050,
+        2971434051,
+        2971434044,
+        2971434035,
+        2971434036,
+        2971434040,
+        2971434042
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Tigh na nÉan",
+        "name:en": "Cape Clear Bird Observatory",
+        "name:ga": "Tigh na nÉan",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 302596346,
+      "nodes": [
+        3068453861,
+        3068453862,
+        3068453860,
+        3068453858,
+        3068453850,
+        3068453852,
+        3068453845,
+        3068453842,
+        3068453844,
+        3068453843,
+        3068453846,
+        3068453848,
+        3068453851,
+        3068453849,
+        3068453853,
+        3068453854,
+        3068453857,
+        3068453859,
+        3068453861
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Killarney International Hostel",
+        "source": "Bing",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 314549595,
+      "nodes": [
+        3205951563,
+        3205951572,
+        3205951575,
+        3205951570,
+        3205951571,
+        3205951566,
+        3205951565,
+        3205951564,
+        3205951563
+      ],
+      "tags": {
+        "building": "chapel",
+        "name": "Muckross Church Youth Venture Centre",
+        "tourism": "hostel",
+        "website": "http://www.buildingsofireland.ie/niah/search.jsp?type=record&county=KE&regno=21306601"
+      }
+    },
+    {
+      "type": "way",
+      "id": 339374431,
+      "nodes": [
+        3465613091,
+        5782005366,
+        5782005361,
+        3465613393,
+        3465613394,
+        3465613395,
+        567777023,
+        3329337232,
+        3465613091
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:street": "Talbot Place",
+        "building": "yes",
+        "name": "Jacob's Inn",
+        "tourism": "hostel",
+        "website": "https://www.jacobsinn.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 340929001,
+      "nodes": [
+        3481505924,
+        3481505920,
+        3481505918,
+        3481505949,
+        3481505933,
+        3481505916,
+        3481505946,
+        3481505940,
+        3481505919,
+        3481505948,
+        3481505941,
+        3481505925,
+        3481505924
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Skellig Ring House Budget Accommodation (Hostel)",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 343928156,
+      "nodes": [
+        3507130568,
+        3507130569,
+        3507130560,
+        3507130559,
+        3507130558,
+        3507130556,
+        3507130580,
+        3507130576,
+        3507130572,
+        3507130570,
+        3507130590,
+        3507130591,
+        3507130586,
+        3507130588,
+        3507130594,
+        3507130595,
+        3507130568
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "house",
+        "contact:email": "mainistirhouse@eircom.net",
+        "contact:phone": "+353 99 61169",
+        "name": "Mainistir House",
+        "roof:shape": "gabled",
+        "tourism": "hostel",
+        "website": "http://www.aranislandshostel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 346630716,
+      "nodes": [
+        3531472877,
+        3531472879,
+        3531472876,
+        3531472875,
+        3531472877
+      ],
+      "tags": {
+        "amenity": "pub",
+        "building": "house",
+        "contact:email": "info@tighfitz.com",
+        "contact:fax": "+353-99-61386",
+        "contact:phone": "+353-99-61213",
+        "name": "Tigh Fitz",
+        "roof:shape": "gabled",
+        "tourism": "hostel",
+        "website": "https://www.tighfitz.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 347271132,
+      "nodes": [
+        3536173009,
+        3536172984,
+        3536172895,
+        3536172961,
+        3536173009
+      ],
+      "tags": {
+        "name": "Auberge B&B",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386480353,
+      "nodes": [
+        3898215033,
+        3898215034,
+        3898215014,
+        3898215013,
+        3898215023,
+        3898215021,
+        3898215030,
+        3898215031,
+        3898215033
+      ],
+      "tags": {
+        "building": "yes",
+        "guest_house": "hostel",
+        "name": "Black Valley Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 400046475,
+      "nodes": [
+        4026770104,
+        4026770108,
+        8000727961,
+        8000727960,
+        4026770112,
+        4026770109,
+        4026770104
+      ],
+      "tags": {
+        "building": "commercial",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 439078280,
+      "nodes": [
+        4367012988,
+        7253180835,
+        7253180836,
+        4367012991,
+        4367013002,
+        4367012996,
+        4367012984,
+        4367012982,
+        4367012975,
+        4367012973,
+        4367012979,
+        4367012972,
+        7253180834,
+        7253180840,
+        7253180839,
+        4367012952,
+        4367012958,
+        4367012963,
+        4367012965,
+        4367012959,
+        7253180838,
+        7253180837,
+        4367012978,
+        4367012983,
+        4367012988
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Ocean Wave Lodge",
+        "phone": "+353 71 916 8115",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 456945675,
+      "nodes": [
+        4531692618,
+        4531692619,
+        4531692620,
+        4531692621,
+        4531692622,
+        4531692623,
+        4531692624,
+        4531692625,
+        4531692626,
+        4531692627,
+        4531692628,
+        4531692629,
+        4531692630,
+        4531692631,
+        4531692632,
+        4531698474,
+        4531692633,
+        4531698475,
+        4531692618
+      ],
+      "tags": {
+        "name": "Armagh City Youth Hostel",
+        "tourism": "hostel",
+        "website": "https://www.hini.org.uk/hostels/Armagh-Hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 469909065,
+      "nodes": [
+        4641693374,
+        4641693373,
+        4641693372,
+        4641693371,
+        4641693374
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Dempsey's Hostel",
+        "phone": "+353 21 4772 124",
+        "tourism": "hostel",
+        "website": "http://dempseyhostel.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 483730709,
+      "nodes": [
+        4764732636,
+        4764732637,
+        4764732638,
+        4764732639,
+        4764732640,
+        7963889880,
+        4764732641,
+        4764732636
+      ],
+      "tags": {
+        "addr:city": "Youghal",
+        "addr:housename": "Evergreen House",
+        "addr:street": "Mccurtain's Town",
+        "building": "house",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Evergreen House",
+        "rooms": "7",
+        "smoking": "outside",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 490914013,
+      "nodes": [
+        4830838187,
+        4830838186,
+        4830838185,
+        4830838184,
+        4830838183,
+        4830838182,
+        4830838181,
+        4830838180,
+        4830838179,
+        4830838178,
+        4830838177,
+        4830838176,
+        4830838175,
+        4830838174,
+        4830838173,
+        4830838162,
+        4830838172,
+        4830838171,
+        4830838170,
+        4830838169,
+        4830838168,
+        4830838167,
+        4830838166,
+        4830838187
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "The Burren Hostel",
+        "tourism": "hostel",
+        "website": "https://www.sleepzone.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511299895,
+      "nodes": [
+        5001742823,
+        5001742822,
+        5001742821,
+        5001741020,
+        5001742823
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Bluestack Centre",
+        "smoking": "no",
+        "tourism": "hostel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 518269014,
+      "nodes": [
+        5055885502,
+        5055885503,
+        5055885504,
+        5055885505,
+        5055885506,
+        1278667130,
+        5055885507,
+        5055885508,
+        5055885509,
+        5055885510,
+        5055885511,
+        5055885512,
+        5055885502
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "terminal",
+        "internet_access:fee": "no",
+        "internet_access_1": "wifi",
+        "name": "Mount Brandon Hostel",
+        "phone": "+353 667138299",
+        "tourism": "hostel",
+        "website": "http://www.mountbrandonhostel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 537606495,
+      "nodes": [
+        5205635452,
+        5205635451,
+        5205635450,
+        5205635449,
+        5205635452
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Tigh an Phóist",
+        "name:en": "The Postman's House",
+        "phone": "+353 (0)66 9155109",
+        "tourism": "hostel",
+        "website": "http://www.tighanphoist.com/hostel.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 547719983,
+      "nodes": [
+        5290766417,
+        5292091105,
+        5292091106,
+        5292091107,
+        5292091108,
+        5292091109,
+        5290766418,
+        5290766417
+      ],
+      "tags": {
+        "addr:city": "Ardara",
+        "building": "commercial",
+        "name": "Drumbaron Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 579317402,
+      "nodes": [
+        5548331325,
+        837912718,
+        5548331324,
+        5548331323,
+        5548331325
+      ],
+      "tags": {
+        "name": "Fairy Fort Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 587893345,
+      "nodes": [
+        5615317974,
+        5615317975,
+        5615317976,
+        5615317977,
+        5615317978,
+        5615317979,
+        5615317974
+      ],
+      "tags": {
+        "addr:street": "Forster Street",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/snoozles.hostel/",
+        "contact:twitter": "https://twitter.com/Snoozleshostel",
+        "email": "info@snoozleshostel.ie",
+        "internet_access": "wlan",
+        "name": "Snoozles",
+        "phone": "+353-91-530064",
+        "tourism": "hostel",
+        "website": "https://www.snoozleshostelgalway.ie/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 614278503,
+      "nodes": [
+        5810827971,
+        5810827972,
+        5810827973,
+        5810827974,
+        5810827975,
+        5810827976,
+        5810827977,
+        5810827978,
+        5810827971
+      ],
+      "tags": {
+        "building": "hotel",
+        "building:levels": "3",
+        "name": "Richview",
+        "roof:levels": "0",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 626659595,
+      "nodes": [
+        5916051066,
+        5916051065,
+        5916051064,
+        5916051063,
+        5916051062,
+        258747965,
+        5916051061,
+        5916051060,
+        5916051059,
+        5916051058,
+        5916051066
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Cnocnafeola Centre",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 672833343,
+      "nodes": [
+        6300810175,
+        6300810176,
+        6300810184,
+        6300811385,
+        4281718324,
+        4281718325,
+        3497783966,
+        6300810177,
+        6300811386,
+        6300811387,
+        6300811388,
+        6300810178,
+        6300811389,
+        6300810179,
+        6300810180,
+        6300810181,
+        6300811390,
+        6300810182,
+        6300810183,
+        6300810175
+      ],
+      "tags": {
+        "email": "kilronanhostel@gmail.com",
+        "internet_access": "wlan",
+        "name": "Kilronan Hostel",
+        "phone": "+353 99 61255",
+        "tourism": "hostel",
+        "website": "http://www.kilronanhostel.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 696901427,
+      "nodes": [
+        6544763308,
+        6544763328,
+        6544763329,
+        6544763309,
+        6544763308
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "92",
+        "addr:street": "Marlborough Street",
+        "building": "yes",
+        "name": "Spire Hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 721287340,
+      "nodes": [
+        6767281370,
+        6767281367,
+        6767281368,
+        6767281361,
+        6767281360,
+        6767281359,
+        6767281362,
+        6767281369,
+        6767281365,
+        6767281364,
+        6767281363,
+        6767281366,
+        6767281370
+      ],
+      "tags": {
+        "beds": "28",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Benwiskin Centre",
+        "rooms": "6",
+        "tourism": "hostel",
+        "website": "http://benwiskincentre.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 732991885,
+      "nodes": [
+        6863798100,
+        6863798126,
+        6863798101,
+        6480910082,
+        6480910083,
+        6480910084,
+        6480932485,
+        6863798108,
+        6480932486,
+        6480932487,
+        6863798097,
+        2232129679,
+        6863798102,
+        6863798103,
+        6863798104,
+        6863798105,
+        6863798100
+      ],
+      "tags": {
+        "guest_house": "hostel",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Aille River Hostel",
+        "phone": "+353 65 707 4260",
+        "tourism": "hostel",
+        "website": "https://www.ailleriverhosteldoolin.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 781830116,
+      "nodes": [
+        7299606312,
+        7299606306,
+        7299606313,
+        7299606318,
+        7299606317,
+        7299606311,
+        7299606307,
+        7299606310,
+        7299606309,
+        7299606308,
+        7299606305,
+        7299606304,
+        7299606316,
+        7299606315,
+        7299606314,
+        7299606303,
+        7299606301,
+        7299606302,
+        7299606326,
+        7299606325,
+        7299606324,
+        7299606323,
+        7299606322,
+        7299606321,
+        7299606320,
+        7299606319,
+        7299606329,
+        7299606328,
+        7299606327,
+        7299606312
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "The Gyreum",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 868681578,
+      "nodes": [
+        8097135036,
+        8097135037,
+        8097135038,
+        8097135039,
+        8097135036
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Ferry house hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 6971521,
+      "members": [
+        {
+          "type": "way",
+          "ref": 302548883,
+          "role": "inner"
+        },
+        {
+          "type": "way",
+          "ref": 302305049,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "internet_access": "terminal",
+        "name": "Glendalough International Hostel",
+        "tourism": "hostel",
+        "type": "multipolygon",
+        "website": "www.glendaloughinternationalhostel.com"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 7434670,
+      "members": [
+        {
+          "type": "way",
+          "ref": 199711020,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 512032187,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "building": "dormitory",
+        "tourism": "hostel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 8116788,
+      "members": [
+        {
+          "type": "way",
+          "ref": 570045773,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 570315088,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 570315087,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 570045775,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 570045774,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:postcode": "H91 H7E2",
+        "alt_name": "Kinvara Youth Hostel",
+        "email": "doorushouse@kinvara.com",
+        "name": "Doorus House Hostel",
+        "phone": "+353 (0) 91-637512",
+        "tourism": "hostel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 11953942,
+      "members": [
+        {
+          "type": "way",
+          "ref": 233804068,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 842217204,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 842217203,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Kilkenny",
+        "addr:street": "Parliament Street",
+        "building": "commercial",
+        "tourism": "hostel",
+        "type": "multipolygon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3481505916,
+      "lat": 51.8828028,
+      "lon": -10.3697687
+    },
+    {
+      "type": "node",
+      "id": 3481505918,
+      "lat": 51.8830688,
+      "lon": -10.3698465
+    },
+    {
+      "type": "node",
+      "id": 3481505919,
+      "lat": 51.8828769,
+      "lon": -10.3699627
+    },
+    {
+      "type": "node",
+      "id": 3481505920,
+      "lat": 51.8830724,
+      "lon": -10.3697147
+    },
+    {
+      "type": "node",
+      "id": 3481505924,
+      "lat": 51.883135,
+      "lon": -10.3697193
+    },
+    {
+      "type": "node",
+      "id": 3481505925,
+      "lat": 51.883126,
+      "lon": -10.3700427
+    },
+    {
+      "type": "node",
+      "id": 3481505933,
+      "lat": 51.8828873,
+      "lon": -10.3697749
+    },
+    {
+      "type": "node",
+      "id": 3481505940,
+      "lat": 51.8828729,
+      "lon": -10.3701055
+    },
+    {
+      "type": "node",
+      "id": 3481505941,
+      "lat": 51.8830576,
+      "lon": -10.3700377
+    },
+    {
+      "type": "node",
+      "id": 3481505946,
+      "lat": 51.8827936,
+      "lon": -10.3700997
+    },
+    {
+      "type": "node",
+      "id": 3481505948,
+      "lat": 51.8830593,
+      "lon": -10.369976
+    },
+    {
+      "type": "node",
+      "id": 3481505949,
+      "lat": 51.8828857,
+      "lon": -10.3698331
+    },
+    {
+      "type": "node",
+      "id": 2460425490,
+      "lat": 52.1369438,
+      "lon": -10.4587549
+    },
+    {
+      "type": "node",
+      "id": 2460425493,
+      "lat": 52.1369667,
+      "lon": -10.4590475
+    },
+    {
+      "type": "node",
+      "id": 2460425494,
+      "lat": 52.1370248,
+      "lon": -10.458738
+    },
+    {
+      "type": "node",
+      "id": 2460425495,
+      "lat": 52.1370361,
+      "lon": -10.4588816
+    },
+    {
+      "type": "node",
+      "id": 2460425496,
+      "lat": 52.1370465,
+      "lon": -10.4590309
+    },
+    {
+      "type": "node",
+      "id": 2460425497,
+      "lat": 52.1370486,
+      "lon": -10.4590578
+    },
+    {
+      "type": "node",
+      "id": 2460425498,
+      "lat": 52.1371107,
+      "lon": -10.4588661
+    },
+    {
+      "type": "node",
+      "id": 2460425499,
+      "lat": 52.1371245,
+      "lon": -10.459042
+    },
+    {
+      "type": "node",
+      "id": 5205635449,
+      "lat": 52.2003401,
+      "lon": -10.3552464
+    },
+    {
+      "type": "node",
+      "id": 5205635450,
+      "lat": 52.2004069,
+      "lon": -10.3552907
+    },
+    {
+      "type": "node",
+      "id": 5205635451,
+      "lat": 52.2003531,
+      "lon": -10.3554954
+    },
+    {
+      "type": "node",
+      "id": 5205635452,
+      "lat": 52.2002871,
+      "lon": -10.3554533
+    },
+    {
+      "type": "node",
+      "id": 1278667130,
+      "lat": 52.2356364,
+      "lon": -10.1817559
+    },
+    {
+      "type": "node",
+      "id": 5055885502,
+      "lat": 52.2355672,
+      "lon": -10.1814554
+    },
+    {
+      "type": "node",
+      "id": 5055885503,
+      "lat": 52.2355789,
+      "lon": -10.1815187
+    },
+    {
+      "type": "node",
+      "id": 5055885504,
+      "lat": 52.235608,
+      "lon": -10.1815043
+    },
+    {
+      "type": "node",
+      "id": 5055885505,
+      "lat": 52.2356417,
+      "lon": -10.1816872
+    },
+    {
+      "type": "node",
+      "id": 5055885506,
+      "lat": 52.235625,
+      "lon": -10.1816954
+    },
+    {
+      "type": "node",
+      "id": 5055885507,
+      "lat": 52.2355591,
+      "lon": -10.1817945
+    },
+    {
+      "type": "node",
+      "id": 5055885508,
+      "lat": 52.2355435,
+      "lon": -10.1817133
+    },
+    {
+      "type": "node",
+      "id": 5055885509,
+      "lat": 52.2355264,
+      "lon": -10.1817217
+    },
+    {
+      "type": "node",
+      "id": 5055885510,
+      "lat": 52.2354947,
+      "lon": -10.1815504
+    },
+    {
+      "type": "node",
+      "id": 5055885511,
+      "lat": 52.2355249,
+      "lon": -10.1815355
+    },
+    {
+      "type": "node",
+      "id": 5055885512,
+      "lat": 52.2355148,
+      "lon": -10.1814811
+    },
+    {
+      "type": "node",
+      "id": 1998961280,
+      "lat": 51.4349089,
+      "lon": -9.499451
+    },
+    {
+      "type": "node",
+      "id": 1998961288,
+      "lat": 51.4348891,
+      "lon": -9.4993495
+    },
+    {
+      "type": "node",
+      "id": 1998961299,
+      "lat": 51.4346767,
+      "lon": -9.4993754
+    },
+    {
+      "type": "node",
+      "id": 1998961300,
+      "lat": 51.4346972,
+      "lon": -9.4993036
+    },
+    {
+      "type": "node",
+      "id": 1998961317,
+      "lat": 51.434896,
+      "lon": -9.4992949
+    },
+    {
+      "type": "node",
+      "id": 1998961322,
+      "lat": 51.4346862,
+      "lon": -9.4993
+    },
+    {
+      "type": "node",
+      "id": 1998961338,
+      "lat": 51.4347165,
+      "lon": -9.4991513
+    },
+    {
+      "type": "node",
+      "id": 1998961345,
+      "lat": 51.4347574,
+      "lon": -9.4992498
+    },
+    {
+      "type": "node",
+      "id": 1998961350,
+      "lat": 51.4347677,
+      "lon": -9.499168
+    },
+    {
+      "type": "node",
+      "id": 1998961370,
+      "lat": 51.4349205,
+      "lon": -9.4993597
+    },
+    {
+      "type": "node",
+      "id": 2971434035,
+      "lat": 51.441249,
+      "lon": -9.505939
+    },
+    {
+      "type": "node",
+      "id": 2971434036,
+      "lat": 51.4412898,
+      "lon": -9.5059872
+    },
+    {
+      "type": "node",
+      "id": 2971434040,
+      "lat": 51.441308,
+      "lon": -9.5059477
+    },
+    {
+      "type": "node",
+      "id": 2971434042,
+      "lat": 51.4413251,
+      "lon": -9.5059678
+    },
+    {
+      "type": "node",
+      "id": 2971434044,
+      "lat": 51.4413276,
+      "lon": -9.5057679
+    },
+    {
+      "type": "node",
+      "id": 2971434050,
+      "lat": 51.441349,
+      "lon": -9.5058525
+    },
+    {
+      "type": "node",
+      "id": 2971434051,
+      "lat": 51.4413667,
+      "lon": -9.5058141
+    },
+    {
+      "type": "node",
+      "id": 2971434052,
+      "lat": 51.4413678,
+      "lon": -9.5058747
+    },
+    {
+      "type": "node",
+      "id": 3898215013,
+      "lat": 51.9864859,
+      "lon": -9.6524698
+    },
+    {
+      "type": "node",
+      "id": 3898215014,
+      "lat": 51.9864935,
+      "lon": -9.6523296
+    },
+    {
+      "type": "node",
+      "id": 3898215021,
+      "lat": 51.9865517,
+      "lon": -9.652592
+    },
+    {
+      "type": "node",
+      "id": 3898215023,
+      "lat": 51.9865578,
+      "lon": -9.6524801
+    },
+    {
+      "type": "node",
+      "id": 3898215030,
+      "lat": 51.9866263,
+      "lon": -9.6526028
+    },
+    {
+      "type": "node",
+      "id": 3898215031,
+      "lat": 51.9866291,
+      "lon": -9.6525522
+    },
+    {
+      "type": "node",
+      "id": 3898215033,
+      "lat": 51.9866509,
+      "lon": -9.6525554
+    },
+    {
+      "type": "node",
+      "id": 3898215034,
+      "lat": 51.9866619,
+      "lon": -9.6523538
+    },
+    {
+      "type": "node",
+      "id": 2184307997,
+      "lat": 51.8776995,
+      "lon": -9.5833993
+    },
+    {
+      "type": "node",
+      "id": 2184307999,
+      "lat": 51.8777004,
+      "lon": -9.5835132
+    },
+    {
+      "type": "node",
+      "id": 2184308045,
+      "lat": 51.8777985,
+      "lon": -9.5833971
+    },
+    {
+      "type": "node",
+      "id": 2184308058,
+      "lat": 51.8778259,
+      "lon": -9.5835104
+    },
+    {
+      "type": "node",
+      "id": 2184308069,
+      "lat": 51.8778369,
+      "lon": -9.5833039
+    },
+    {
+      "type": "node",
+      "id": 2184308094,
+      "lat": 51.8778881,
+      "lon": -9.5833592
+    },
+    {
+      "type": "node",
+      "id": 2184308095,
+      "lat": 51.8778886,
+      "lon": -9.5831782
+    },
+    {
+      "type": "node",
+      "id": 2184308121,
+      "lat": 51.8779399,
+      "lon": -9.5832335
+    },
+    {
+      "type": "node",
+      "id": 2601647071,
+      "lat": 52.2244419,
+      "lon": -9.9113351
+    },
+    {
+      "type": "node",
+      "id": 2601647076,
+      "lat": 52.2244102,
+      "lon": -9.9113402
+    },
+    {
+      "type": "node",
+      "id": 2601647172,
+      "lat": 52.2243987,
+      "lon": -9.911231
+    },
+    {
+      "type": "node",
+      "id": 2601647192,
+      "lat": 52.2243252,
+      "lon": -9.9112395
+    },
+    {
+      "type": "node",
+      "id": 2601647213,
+      "lat": 52.2243927,
+      "lon": -9.9111324
+    },
+    {
+      "type": "node",
+      "id": 2601647271,
+      "lat": 52.2243146,
+      "lon": -9.9115367
+    },
+    {
+      "type": "node",
+      "id": 2601647294,
+      "lat": 52.224297,
+      "lon": -9.9112441
+    },
+    {
+      "type": "node",
+      "id": 2601647313,
+      "lat": 52.2243195,
+      "lon": -9.9111442
+    },
+    {
+      "type": "node",
+      "id": 2601647329,
+      "lat": 52.224421,
+      "lon": -9.9115196
+    },
+    {
+      "type": "node",
+      "id": 2601647346,
+      "lat": 52.2244353,
+      "lon": -9.9112251
+    },
+    {
+      "type": "node",
+      "id": 3068453842,
+      "lat": 52.0723096,
+      "lon": -9.5771315
+    },
+    {
+      "type": "node",
+      "id": 3068453843,
+      "lat": 52.0723196,
+      "lon": -9.5772754
+    },
+    {
+      "type": "node",
+      "id": 3068453844,
+      "lat": 52.0723543,
+      "lon": -9.5771707
+    },
+    {
+      "type": "node",
+      "id": 3068453845,
+      "lat": 52.0723862,
+      "lon": -9.5769003
+    },
+    {
+      "type": "node",
+      "id": 3068453846,
+      "lat": 52.0723904,
+      "lon": -9.5773375
+    },
+    {
+      "type": "node",
+      "id": 3068453848,
+      "lat": 52.0724194,
+      "lon": -9.5772501
+    },
+    {
+      "type": "node",
+      "id": 3068453849,
+      "lat": 52.0724521,
+      "lon": -9.5773428
+    },
+    {
+      "type": "node",
+      "id": 3068453850,
+      "lat": 52.072458,
+      "lon": -9.5770644
+    },
+    {
+      "type": "node",
+      "id": 3068453851,
+      "lat": 52.0724685,
+      "lon": -9.5772932
+    },
+    {
+      "type": "node",
+      "id": 3068453852,
+      "lat": 52.072484,
+      "lon": -9.5769861
+    },
+    {
+      "type": "node",
+      "id": 3068453853,
+      "lat": 52.0725036,
+      "lon": -9.5773879
+    },
+    {
+      "type": "node",
+      "id": 3068453854,
+      "lat": 52.0725212,
+      "lon": -9.5773349
+    },
+    {
+      "type": "node",
+      "id": 3068453857,
+      "lat": 52.0726284,
+      "lon": -9.5774288
+    },
+    {
+      "type": "node",
+      "id": 3068453858,
+      "lat": 52.0726381,
+      "lon": -9.5772223
+    },
+    {
+      "type": "node",
+      "id": 3068453859,
+      "lat": 52.0726441,
+      "lon": -9.5773814
+    },
+    {
+      "type": "node",
+      "id": 3068453860,
+      "lat": 52.0726511,
+      "lon": -9.5771831
+    },
+    {
+      "type": "node",
+      "id": 3068453861,
+      "lat": 52.0726704,
+      "lon": -9.5774045
+    },
+    {
+      "type": "node",
+      "id": 3068453862,
+      "lat": 52.0727229,
+      "lon": -9.5772461
+    },
+    {
+      "type": "node",
+      "id": 3205951563,
+      "lat": 52.026846,
+      "lon": -9.4879581
+    },
+    {
+      "type": "node",
+      "id": 3205951564,
+      "lat": 52.0268498,
+      "lon": -9.4877227
+    },
+    {
+      "type": "node",
+      "id": 3205951565,
+      "lat": 52.026861,
+      "lon": -9.4877231
+    },
+    {
+      "type": "node",
+      "id": 3205951566,
+      "lat": 52.0268619,
+      "lon": -9.487667
+    },
+    {
+      "type": "node",
+      "id": 3205951570,
+      "lat": 52.0269154,
+      "lon": -9.4877254
+    },
+    {
+      "type": "node",
+      "id": 3205951571,
+      "lat": 52.0269162,
+      "lon": -9.4876693
+    },
+    {
+      "type": "node",
+      "id": 3205951572,
+      "lat": 52.0269236,
+      "lon": -9.4879613
+    },
+    {
+      "type": "node",
+      "id": 3205951575,
+      "lat": 52.0269274,
+      "lon": -9.4877259
+    },
+    {
+      "type": "node",
+      "id": 4641693371,
+      "lat": 51.7080576,
+      "lon": -8.5145757
+    },
+    {
+      "type": "node",
+      "id": 4641693372,
+      "lat": 51.7080944,
+      "lon": -8.5144284
+    },
+    {
+      "type": "node",
+      "id": 4641693373,
+      "lat": 51.708233,
+      "lon": -8.5145185
+    },
+    {
+      "type": "node",
+      "id": 4641693374,
+      "lat": 51.7081961,
+      "lon": -8.5146658
+    },
+    {
+      "type": "node",
+      "id": 8097135036,
+      "lat": 52.5722483,
+      "lon": -9.3744751
+    },
+    {
+      "type": "node",
+      "id": 8097135037,
+      "lat": 52.5722212,
+      "lon": -9.3743
+    },
+    {
+      "type": "node",
+      "id": 8097135038,
+      "lat": 52.5723466,
+      "lon": -9.3742473
+    },
+    {
+      "type": "node",
+      "id": 8097135039,
+      "lat": 52.5723738,
+      "lon": -9.3744225
+    },
+    {
+      "type": "node",
+      "id": 3531472875,
+      "lat": 53.1056551,
+      "lon": -9.6642356
+    },
+    {
+      "type": "node",
+      "id": 3531472876,
+      "lat": 53.105761,
+      "lon": -9.6640724
+    },
+    {
+      "type": "node",
+      "id": 3531472877,
+      "lat": 53.1057783,
+      "lon": -9.6644577
+    },
+    {
+      "type": "node",
+      "id": 3531472879,
+      "lat": 53.1058843,
+      "lon": -9.6642945
+    },
+    {
+      "type": "node",
+      "id": 3497783966,
+      "lat": 53.1199376,
+      "lon": -9.6682113
+    },
+    {
+      "type": "node",
+      "id": 4281718324,
+      "lat": 53.120036,
+      "lon": -9.66807
+    },
+    {
+      "type": "node",
+      "id": 4281718325,
+      "lat": 53.1199202,
+      "lon": -9.6681551
+    },
+    {
+      "type": "node",
+      "id": 6300810175,
+      "lat": 53.1197843,
+      "lon": -9.6680176
+    },
+    {
+      "type": "node",
+      "id": 6300810176,
+      "lat": 53.1198761,
+      "lon": -9.6679814
+    },
+    {
+      "type": "node",
+      "id": 6300810177,
+      "lat": 53.1198861,
+      "lon": -9.6682523
+    },
+    {
+      "type": "node",
+      "id": 6300810178,
+      "lat": 53.1197658,
+      "lon": -9.6683502
+    },
+    {
+      "type": "node",
+      "id": 6300810179,
+      "lat": 53.119736,
+      "lon": -9.6683059
+    },
+    {
+      "type": "node",
+      "id": 6300810180,
+      "lat": 53.1197272,
+      "lon": -9.6682697
+    },
+    {
+      "type": "node",
+      "id": 6300810181,
+      "lat": 53.1197111,
+      "lon": -9.6682577
+    },
+    {
+      "type": "node",
+      "id": 6300810182,
+      "lat": 53.1197465,
+      "lon": -9.6681383
+    },
+    {
+      "type": "node",
+      "id": 6300810183,
+      "lat": 53.1197891,
+      "lon": -9.6680672
+    },
+    {
+      "type": "node",
+      "id": 6300810184,
+      "lat": 53.1198837,
+      "lon": -9.6680089
+    },
+    {
+      "type": "node",
+      "id": 6300811385,
+      "lat": 53.1200034,
+      "lon": -9.6679368
+    },
+    {
+      "type": "node",
+      "id": 6300811386,
+      "lat": 53.1198951,
+      "lon": -9.6682852
+    },
+    {
+      "type": "node",
+      "id": 6300811387,
+      "lat": 53.1198232,
+      "lon": -9.6683472
+    },
+    {
+      "type": "node",
+      "id": 6300811388,
+      "lat": 53.1198154,
+      "lon": -9.6683795
+    },
+    {
+      "type": "node",
+      "id": 6300811389,
+      "lat": 53.1197445,
+      "lon": -9.6683321
+    },
+    {
+      "type": "node",
+      "id": 6300811390,
+      "lat": 53.1197199,
+      "lon": -9.6681933
+    },
+    {
+      "type": "node",
+      "id": 3507130556,
+      "lat": 53.128287,
+      "lon": -9.6799785
+    },
+    {
+      "type": "node",
+      "id": 3507130558,
+      "lat": 53.1282919,
+      "lon": -9.6798677
+    },
+    {
+      "type": "node",
+      "id": 3507130559,
+      "lat": 53.1283093,
+      "lon": -9.6798698
+    },
+    {
+      "type": "node",
+      "id": 3507130560,
+      "lat": 53.1283164,
+      "lon": -9.6797114
+    },
+    {
+      "type": "node",
+      "id": 3507130568,
+      "lat": 53.1283699,
+      "lon": -9.6798774
+    },
+    {
+      "type": "node",
+      "id": 3507130569,
+      "lat": 53.128377,
+      "lon": -9.679719
+    },
+    {
+      "type": "node",
+      "id": 3507130570,
+      "lat": 53.1283783,
+      "lon": -9.6802218
+    },
+    {
+      "type": "node",
+      "id": 3507130572,
+      "lat": 53.128383,
+      "lon": -9.6801151
+    },
+    {
+      "type": "node",
+      "id": 3507130576,
+      "lat": 53.1284045,
+      "lon": -9.6801177
+    },
+    {
+      "type": "node",
+      "id": 3507130580,
+      "lat": 53.1284101,
+      "lon": -9.6799939
+    },
+    {
+      "type": "node",
+      "id": 3507130586,
+      "lat": 53.1284595,
+      "lon": -9.6801246
+    },
+    {
+      "type": "node",
+      "id": 3507130588,
+      "lat": 53.1284651,
+      "lon": -9.6800007
+    },
+    {
+      "type": "node",
+      "id": 3507130590,
+      "lat": 53.1284947,
+      "lon": -9.6802363
+    },
+    {
+      "type": "node",
+      "id": 3507130591,
+      "lat": 53.1284995,
+      "lon": -9.6801296
+    },
+    {
+      "type": "node",
+      "id": 3507130594,
+      "lat": 53.1285051,
+      "lon": -9.6800057
+    },
+    {
+      "type": "node",
+      "id": 3507130595,
+      "lat": 53.12851,
+      "lon": -9.6798948
+    },
+    {
+      "type": "node",
+      "id": 2232140211,
+      "lat": 53.0127549,
+      "lon": -9.3836813
+    },
+    {
+      "type": "node",
+      "id": 2232140213,
+      "lat": 53.0124919,
+      "lon": -9.3838637
+    },
+    {
+      "type": "node",
+      "id": 2232140216,
+      "lat": 53.0126145,
+      "lon": -9.3836599
+    },
+    {
+      "type": "node",
+      "id": 2232140238,
+      "lat": 53.0125887,
+      "lon": -9.3836223
+    },
+    {
+      "type": "node",
+      "id": 2232140258,
+      "lat": 53.0126541,
+      "lon": -9.3835239
+    },
+    {
+      "type": "node",
+      "id": 2232140263,
+      "lat": 53.0125822,
+      "lon": -9.3839978
+    },
+    {
+      "type": "node",
+      "id": 2360889698,
+      "lat": 53.0127402,
+      "lon": -9.3841833
+    },
+    {
+      "type": "node",
+      "id": 2360889708,
+      "lat": 53.0128086,
+      "lon": -9.3842903
+    },
+    {
+      "type": "node",
+      "id": 2360889709,
+      "lat": 53.0128674,
+      "lon": -9.3839585
+    },
+    {
+      "type": "node",
+      "id": 2360889710,
+      "lat": 53.0129004,
+      "lon": -9.3840734
+    },
+    {
+      "type": "node",
+      "id": 2360889711,
+      "lat": 53.0129168,
+      "lon": -9.3840991
+    },
+    {
+      "type": "node",
+      "id": 2360889712,
+      "lat": 53.0129194,
+      "lon": -9.3840398
+    },
+    {
+      "type": "node",
+      "id": 4860261989,
+      "lat": 53.0126893,
+      "lon": -9.3838014
+    },
+    {
+      "type": "node",
+      "id": 2232129679,
+      "lat": 53.0167135,
+      "lon": -9.3782552
+    },
+    {
+      "type": "node",
+      "id": 2232129702,
+      "lat": 53.01653,
+      "lon": -9.3782073
+    },
+    {
+      "type": "node",
+      "id": 2232129766,
+      "lat": 53.0166366,
+      "lon": -9.3783922
+    },
+    {
+      "type": "node",
+      "id": 2232129823,
+      "lat": 53.0164496,
+      "lon": -9.3783337
+    },
+    {
+      "type": "node",
+      "id": 2232129837,
+      "lat": 53.0165577,
+      "lon": -9.3785192
+    },
+    {
+      "type": "node",
+      "id": 4699222820,
+      "lat": 53.0164614,
+      "lon": -9.3783125
+    },
+    {
+      "type": "node",
+      "id": 6480910082,
+      "lat": 53.0164213,
+      "lon": -9.3782942
+    },
+    {
+      "type": "node",
+      "id": 6480910083,
+      "lat": 53.0164114,
+      "lon": -9.378266
+    },
+    {
+      "type": "node",
+      "id": 6863798097,
+      "lat": 53.0166814,
+      "lon": -9.3782121
+    },
+    {
+      "type": "node",
+      "id": 6863798100,
+      "lat": 53.0165289,
+      "lon": -9.3785681
+    },
+    {
+      "type": "node",
+      "id": 6863798101,
+      "lat": 53.0163972,
+      "lon": -9.378339
+    },
+    {
+      "type": "node",
+      "id": 6863798102,
+      "lat": 53.0166604,
+      "lon": -9.3783499
+    },
+    {
+      "type": "node",
+      "id": 6863798103,
+      "lat": 53.0166978,
+      "lon": -9.3784341
+    },
+    {
+      "type": "node",
+      "id": 6863798104,
+      "lat": 53.0165583,
+      "lon": -9.3786309
+    },
+    {
+      "type": "node",
+      "id": 6863798105,
+      "lat": 53.0165428,
+      "lon": -9.3785977
+    },
+    {
+      "type": "node",
+      "id": 6863798106,
+      "lat": 53.0165647,
+      "lon": -9.3782674
+    },
+    {
+      "type": "node",
+      "id": 6863798126,
+      "lat": 53.0164165,
+      "lon": -9.3783726
+    },
+    {
+      "type": "node",
+      "id": 6480910084,
+      "lat": 53.0164743,
+      "lon": -9.3780246
+    },
+    {
+      "type": "node",
+      "id": 6480932485,
+      "lat": 53.0166311,
+      "lon": -9.3778186
+    },
+    {
+      "type": "node",
+      "id": 6480932486,
+      "lat": 53.0167502,
+      "lon": -9.3777081
+    },
+    {
+      "type": "node",
+      "id": 6480932487,
+      "lat": 53.0168535,
+      "lon": -9.3778288
+    },
+    {
+      "type": "node",
+      "id": 6863798108,
+      "lat": 53.016681,
+      "lon": -9.3778361
+    },
+    {
+      "type": "node",
+      "id": 2232048471,
+      "lat": 53.0199455,
+      "lon": -9.3706113
+    },
+    {
+      "type": "node",
+      "id": 2232048472,
+      "lat": 53.0197183,
+      "lon": -9.3705545
+    },
+    {
+      "type": "node",
+      "id": 2232048488,
+      "lat": 53.0198846,
+      "lon": -9.3705265
+    },
+    {
+      "type": "node",
+      "id": 2232048502,
+      "lat": 53.01992,
+      "lon": -9.3705034
+    },
+    {
+      "type": "node",
+      "id": 2232048506,
+      "lat": 53.0197472,
+      "lon": -9.370465
+    },
+    {
+      "type": "node",
+      "id": 2232048516,
+      "lat": 53.0198537,
+      "lon": -9.3703955
+    },
+    {
+      "type": "node",
+      "id": 2232048530,
+      "lat": 53.0197603,
+      "lon": -9.3707322
+    },
+    {
+      "type": "node",
+      "id": 2232048531,
+      "lat": 53.0197616,
+      "lon": -9.3705262
+    },
+    {
+      "type": "node",
+      "id": 2232048458,
+      "lat": 53.0222635,
+      "lon": -9.3684787
+    },
+    {
+      "type": "node",
+      "id": 2232048468,
+      "lat": 53.022228,
+      "lon": -9.3686584
+    },
+    {
+      "type": "node",
+      "id": 2232048493,
+      "lat": 53.0223789,
+      "lon": -9.3685571
+    },
+    {
+      "type": "node",
+      "id": 2232048501,
+      "lat": 53.022349,
+      "lon": -9.3684304
+    },
+    {
+      "type": "node",
+      "id": 2232048509,
+      "lat": 53.0222345,
+      "lon": -9.368366
+    },
+    {
+      "type": "node",
+      "id": 2232048525,
+      "lat": 53.0221635,
+      "lon": -9.368417
+    },
+    {
+      "type": "node",
+      "id": 898010457,
+      "lat": 53.0167453,
+      "lon": -9.2537635
+    },
+    {
+      "type": "node",
+      "id": 898010480,
+      "lat": 53.0168487,
+      "lon": -9.2537613
+    },
+    {
+      "type": "node",
+      "id": 898010425,
+      "lat": 53.016846,
+      "lon": -9.2534123
+    },
+    {
+      "type": "node",
+      "id": 898010430,
+      "lat": 53.0167426,
+      "lon": -9.2534145
+    },
+    {
+      "type": "node",
+      "id": 4830838162,
+      "lat": 53.0288535,
+      "lon": -9.2931593
+    },
+    {
+      "type": "node",
+      "id": 4830838166,
+      "lat": 53.0285703,
+      "lon": -9.2935749
+    },
+    {
+      "type": "node",
+      "id": 4830838167,
+      "lat": 53.0287609,
+      "lon": -9.2936296
+    },
+    {
+      "type": "node",
+      "id": 4830838168,
+      "lat": 53.028769,
+      "lon": -9.2935509
+    },
+    {
+      "type": "node",
+      "id": 4830838169,
+      "lat": 53.0288176,
+      "lon": -9.2935648
+    },
+    {
+      "type": "node",
+      "id": 4830838170,
+      "lat": 53.0288497,
+      "lon": -9.293255
+    },
+    {
+      "type": "node",
+      "id": 4830838171,
+      "lat": 53.0288201,
+      "lon": -9.2932465
+    },
+    {
+      "type": "node",
+      "id": 4830838172,
+      "lat": 53.0288298,
+      "lon": -9.2931525
+    },
+    {
+      "type": "node",
+      "id": 4830838173,
+      "lat": 53.0289308,
+      "lon": -9.2931815
+    },
+    {
+      "type": "node",
+      "id": 4830838174,
+      "lat": 53.0289223,
+      "lon": -9.2932633
+    },
+    {
+      "type": "node",
+      "id": 4830838175,
+      "lat": 53.0289041,
+      "lon": -9.2932581
+    },
+    {
+      "type": "node",
+      "id": 4830838176,
+      "lat": 53.028902,
+      "lon": -9.2932781
+    },
+    {
+      "type": "node",
+      "id": 4830838177,
+      "lat": 53.028956,
+      "lon": -9.2932937
+    },
+    {
+      "type": "node",
+      "id": 4830838178,
+      "lat": 53.0289406,
+      "lon": -9.2934426
+    },
+    {
+      "type": "node",
+      "id": 4830838179,
+      "lat": 53.0290649,
+      "lon": -9.2934783
+    },
+    {
+      "type": "node",
+      "id": 4830838180,
+      "lat": 53.0290463,
+      "lon": -9.2936575
+    },
+    {
+      "type": "node",
+      "id": 4830838181,
+      "lat": 53.0289249,
+      "lon": -9.2936227
+    },
+    {
+      "type": "node",
+      "id": 4830838182,
+      "lat": 53.0289277,
+      "lon": -9.2935957
+    },
+    {
+      "type": "node",
+      "id": 4830838183,
+      "lat": 53.0288781,
+      "lon": -9.2935814
+    },
+    {
+      "type": "node",
+      "id": 4830838184,
+      "lat": 53.0288698,
+      "lon": -9.2936615
+    },
+    {
+      "type": "node",
+      "id": 4830838185,
+      "lat": 53.0288269,
+      "lon": -9.2936492
+    },
+    {
+      "type": "node",
+      "id": 4830838186,
+      "lat": 53.0288162,
+      "lon": -9.2937527
+    },
+    {
+      "type": "node",
+      "id": 4830838187,
+      "lat": 53.0285595,
+      "lon": -9.293679
+    },
+    {
+      "type": "node",
+      "id": 2909293728,
+      "lat": 52.9454176,
+      "lon": -9.0652061
+    },
+    {
+      "type": "node",
+      "id": 2909293729,
+      "lat": 52.9454559,
+      "lon": -9.0653216
+    },
+    {
+      "type": "node",
+      "id": 2909293730,
+      "lat": 52.9455366,
+      "lon": -9.0650974
+    },
+    {
+      "type": "node",
+      "id": 2909293731,
+      "lat": 52.9455749,
+      "lon": -9.0652128
+    },
+    {
+      "type": "node",
+      "id": 2217937013,
+      "lat": 53.2622887,
+      "lon": -9.0727302
+    },
+    {
+      "type": "node",
+      "id": 2217937015,
+      "lat": 53.2623461,
+      "lon": -9.0729718
+    },
+    {
+      "type": "node",
+      "id": 2217937017,
+      "lat": 53.2623574,
+      "lon": -9.0727989
+    },
+    {
+      "type": "node",
+      "id": 2217937019,
+      "lat": 53.2623913,
+      "lon": -9.0729418
+    },
+    {
+      "type": "node",
+      "id": 2217937020,
+      "lat": 53.2625228,
+      "lon": -9.0725748
+    },
+    {
+      "type": "node",
+      "id": 2217937021,
+      "lat": 53.2625462,
+      "lon": -9.0726735
+    },
+    {
+      "type": "node",
+      "id": 1611102386,
+      "lat": 53.2701145,
+      "lon": -9.057959
+    },
+    {
+      "type": "node",
+      "id": 1611102389,
+      "lat": 53.2701249,
+      "lon": -9.0581233
+    },
+    {
+      "type": "node",
+      "id": 1611102391,
+      "lat": 53.2701935,
+      "lon": -9.057945
+    },
+    {
+      "type": "node",
+      "id": 1611102394,
+      "lat": 53.270196,
+      "lon": -9.0579847
+    },
+    {
+      "type": "node",
+      "id": 1611102395,
+      "lat": 53.2702181,
+      "lon": -9.0579807
+    },
+    {
+      "type": "node",
+      "id": 1611102397,
+      "lat": 53.270226,
+      "lon": -9.0581054
+    },
+    {
+      "type": "node",
+      "id": 1762595123,
+      "lat": 53.2701624,
+      "lon": -9.0579505
+    },
+    {
+      "type": "node",
+      "id": 1743497879,
+      "lat": 53.2730479,
+      "lon": -9.0489914
+    },
+    {
+      "type": "node",
+      "id": 1743497887,
+      "lat": 53.2731235,
+      "lon": -9.04912
+    },
+    {
+      "type": "node",
+      "id": 1743497898,
+      "lat": 53.2731949,
+      "lon": -9.0491958
+    },
+    {
+      "type": "node",
+      "id": 1743497908,
+      "lat": 53.2732883,
+      "lon": -9.0492999
+    },
+    {
+      "type": "node",
+      "id": 1743526274,
+      "lat": 53.2732512,
+      "lon": -9.0486847
+    },
+    {
+      "type": "node",
+      "id": 1743526275,
+      "lat": 53.2734377,
+      "lon": -9.0489831
+    },
+    {
+      "type": "node",
+      "id": 1743526276,
+      "lat": 53.2734454,
+      "lon": -9.0489669
+    },
+    {
+      "type": "node",
+      "id": 5615317974,
+      "lat": 53.2752724,
+      "lon": -9.0452768
+    },
+    {
+      "type": "node",
+      "id": 5615317975,
+      "lat": 53.2752748,
+      "lon": -9.0448007
+    },
+    {
+      "type": "node",
+      "id": 5615317976,
+      "lat": 53.2751224,
+      "lon": -9.0448074
+    },
+    {
+      "type": "node",
+      "id": 5615317977,
+      "lat": 53.2751152,
+      "lon": -9.0452058
+    },
+    {
+      "type": "node",
+      "id": 5615317978,
+      "lat": 53.2751601,
+      "lon": -9.0452138
+    },
+    {
+      "type": "node",
+      "id": 5615317979,
+      "lat": 53.2751601,
+      "lon": -9.0452728
+    },
+    {
+      "type": "node",
+      "id": 8058706976,
+      "lat": 53.2732981,
+      "lon": -9.0489886
+    },
+    {
+      "type": "node",
+      "id": 8058706977,
+      "lat": 53.2732502,
+      "lon": -9.0489154
+    },
+    {
+      "type": "node",
+      "id": 8072818902,
+      "lat": 53.2732474,
+      "lon": -9.0492543
+    },
+    {
+      "type": "node",
+      "id": 4005870260,
+      "lat": 53.1668764,
+      "lon": -8.981981
+    },
+    {
+      "type": "node",
+      "id": 4005870263,
+      "lat": 53.1669568,
+      "lon": -8.9810529
+    },
+    {
+      "type": "node",
+      "id": 5481021286,
+      "lat": 53.1665817,
+      "lon": -8.9826885
+    },
+    {
+      "type": "node",
+      "id": 5481021287,
+      "lat": 53.1665142,
+      "lon": -8.9826053
+    },
+    {
+      "type": "node",
+      "id": 5481021288,
+      "lat": 53.1664354,
+      "lon": -8.9825651
+    },
+    {
+      "type": "node",
+      "id": 5481021289,
+      "lat": 53.1663936,
+      "lon": -8.9824551
+    },
+    {
+      "type": "node",
+      "id": 5481021290,
+      "lat": 53.1664,
+      "lon": -8.9820716
+    },
+    {
+      "type": "node",
+      "id": 5481021291,
+      "lat": 53.1664065,
+      "lon": -8.9820421
+    },
+    {
+      "type": "node",
+      "id": 5481021292,
+      "lat": 53.1664467,
+      "lon": -8.9818704
+    },
+    {
+      "type": "node",
+      "id": 5481021293,
+      "lat": 53.1664933,
+      "lon": -8.9817765
+    },
+    {
+      "type": "node",
+      "id": 5481021294,
+      "lat": 53.1665624,
+      "lon": -8.981688
+    },
+    {
+      "type": "node",
+      "id": 5481021295,
+      "lat": 53.1666268,
+      "lon": -8.9815995
+    },
+    {
+      "type": "node",
+      "id": 5481021296,
+      "lat": 53.1666654,
+      "lon": -8.9809504
+    },
+    {
+      "type": "node",
+      "id": 5481021297,
+      "lat": 53.1668551,
+      "lon": -8.9821413
+    },
+    {
+      "type": "node",
+      "id": 5481021298,
+      "lat": 53.1668422,
+      "lon": -8.9823988
+    },
+    {
+      "type": "node",
+      "id": 5481021299,
+      "lat": 53.166831,
+      "lon": -8.9826778
+    },
+    {
+      "type": "node",
+      "id": 5483031260,
+      "lat": 53.1666491,
+      "lon": -8.9826856
+    },
+    {
+      "type": "node",
+      "id": 2730134671,
+      "lat": 51.9148397,
+      "lon": -8.1723986
+    },
+    {
+      "type": "node",
+      "id": 2730134633,
+      "lat": 51.9151045,
+      "lon": -8.1714464
+    },
+    {
+      "type": "node",
+      "id": 2730134637,
+      "lat": 51.9148497,
+      "lon": -8.1717012
+    },
+    {
+      "type": "node",
+      "id": 2730134640,
+      "lat": 51.9149456,
+      "lon": -8.1718058
+    },
+    {
+      "type": "node",
+      "id": 2730134643,
+      "lat": 51.914891,
+      "lon": -8.1720714
+    },
+    {
+      "type": "node",
+      "id": 2730134646,
+      "lat": 51.9151789,
+      "lon": -8.1722108
+    },
+    {
+      "type": "node",
+      "id": 2730134649,
+      "lat": 51.9148423,
+      "lon": -8.1720131
+    },
+    {
+      "type": "node",
+      "id": 2730134657,
+      "lat": 51.9153221,
+      "lon": -8.1719622
+    },
+    {
+      "type": "node",
+      "id": 2730134659,
+      "lat": 51.9150515,
+      "lon": -8.1715135
+    },
+    {
+      "type": "node",
+      "id": 2730134663,
+      "lat": 51.9151342,
+      "lon": -8.1721411
+    },
+    {
+      "type": "node",
+      "id": 2730134666,
+      "lat": 51.9147885,
+      "lon": -8.1723288
+    },
+    {
+      "type": "node",
+      "id": 2730134668,
+      "lat": 51.9152344,
+      "lon": -8.1719676
+    },
+    {
+      "type": "node",
+      "id": 2730134672,
+      "lat": 51.9149416,
+      "lon": -8.1719407
+    },
+    {
+      "type": "node",
+      "id": 2730134674,
+      "lat": 51.9151706,
+      "lon": -8.1718112
+    },
+    {
+      "type": "node",
+      "id": 2730134686,
+      "lat": 51.9148539,
+      "lon": -8.1721499
+    },
+    {
+      "type": "node",
+      "id": 2730134690,
+      "lat": 51.9148166,
+      "lon": -8.1717924
+    },
+    {
+      "type": "node",
+      "id": 2730134694,
+      "lat": 51.9150548,
+      "lon": -8.1715537
+    },
+    {
+      "type": "node",
+      "id": 2730134696,
+      "lat": 51.9147934,
+      "lon": -8.1720901
+    },
+    {
+      "type": "node",
+      "id": 4764732636,
+      "lat": 51.9404414,
+      "lon": -7.8470898
+    },
+    {
+      "type": "node",
+      "id": 4764732637,
+      "lat": 51.9402912,
+      "lon": -7.8471129
+    },
+    {
+      "type": "node",
+      "id": 4764732638,
+      "lat": 51.9402853,
+      "lon": -7.8470115
+    },
+    {
+      "type": "node",
+      "id": 4764732639,
+      "lat": 51.9403795,
+      "lon": -7.8469969
+    },
+    {
+      "type": "node",
+      "id": 4764732640,
+      "lat": 51.9403765,
+      "lon": -7.8469449
+    },
+    {
+      "type": "node",
+      "id": 4764732641,
+      "lat": 51.9404325,
+      "lon": -7.8469362
+    },
+    {
+      "type": "node",
+      "id": 7963889880,
+      "lat": 51.940432,
+      "lon": -7.8469363
+    },
+    {
+      "type": "node",
+      "id": 390360094,
+      "lat": 52.1844167,
+      "lon": -7.8486679
+    },
+    {
+      "type": "node",
+      "id": 2096948137,
+      "lat": 52.1838086,
+      "lon": -7.8480758
+    },
+    {
+      "type": "node",
+      "id": 2096948138,
+      "lat": 52.1838289,
+      "lon": -7.8481898
+    },
+    {
+      "type": "node",
+      "id": 2096948139,
+      "lat": 52.1838527,
+      "lon": -7.8481113
+    },
+    {
+      "type": "node",
+      "id": 2096948140,
+      "lat": 52.1838637,
+      "lon": -7.8478941
+    },
+    {
+      "type": "node",
+      "id": 2096948142,
+      "lat": 52.1838964,
+      "lon": -7.8480064
+    },
+    {
+      "type": "node",
+      "id": 2096948143,
+      "lat": 52.1839174,
+      "lon": -7.8479373
+    },
+    {
+      "type": "node",
+      "id": 2096948144,
+      "lat": 52.18398,
+      "lon": -7.8483116
+    },
+    {
+      "type": "node",
+      "id": 2096948145,
+      "lat": 52.1839958,
+      "lon": -7.8482595
+    },
+    {
+      "type": "node",
+      "id": 2096948146,
+      "lat": 52.1840327,
+      "lon": -7.8483536
+    },
+    {
+      "type": "node",
+      "id": 2096948147,
+      "lat": 52.1840403,
+      "lon": -7.8481224
+    },
+    {
+      "type": "node",
+      "id": 2096948148,
+      "lat": 52.1840438,
+      "lon": -7.8482982
+    },
+    {
+      "type": "node",
+      "id": 2096948149,
+      "lat": 52.1840709,
+      "lon": -7.8480216
+    },
+    {
+      "type": "node",
+      "id": 2096948154,
+      "lat": 52.1841979,
+      "lon": -7.8484862
+    },
+    {
+      "type": "node",
+      "id": 2096948157,
+      "lat": 52.1842048,
+      "lon": -7.8484547
+    },
+    {
+      "type": "node",
+      "id": 2096948160,
+      "lat": 52.1842891,
+      "lon": -7.8481975
+    },
+    {
+      "type": "node",
+      "id": 2096948161,
+      "lat": 52.1843065,
+      "lon": -7.8485871
+    },
+    {
+      "type": "node",
+      "id": 2096948162,
+      "lat": 52.1843187,
+      "lon": -7.8485466
+    },
+    {
+      "type": "node",
+      "id": 2096948163,
+      "lat": 52.1843607,
+      "lon": -7.8479612
+    },
+    {
+      "type": "node",
+      "id": 2096948167,
+      "lat": 52.1844494,
+      "lon": -7.8481313
+    },
+    {
+      "type": "node",
+      "id": 2096948168,
+      "lat": 52.1844735,
+      "lon": -7.848052
+    },
+    {
+      "type": "node",
+      "id": 2096948169,
+      "lat": 52.1844799,
+      "lon": -7.8485012
+    },
+    {
+      "type": "node",
+      "id": 2096948171,
+      "lat": 52.1845327,
+      "lon": -7.8487693
+    },
+    {
+      "type": "node",
+      "id": 2096948172,
+      "lat": 52.1845454,
+      "lon": -7.8485539
+    },
+    {
+      "type": "node",
+      "id": 2096948173,
+      "lat": 52.1845494,
+      "lon": -7.8487142
+    },
+    {
+      "type": "node",
+      "id": 2096948174,
+      "lat": 52.184564,
+      "lon": -7.8482236
+    },
+    {
+      "type": "node",
+      "id": 2096948179,
+      "lat": 52.1846412,
+      "lon": -7.8486029
+    },
+    {
+      "type": "node",
+      "id": 2096948180,
+      "lat": 52.1846548,
+      "lon": -7.8487992
+    },
+    {
+      "type": "node",
+      "id": 2096948183,
+      "lat": 52.184681,
+      "lon": -7.8487126
+    },
+    {
+      "type": "node",
+      "id": 2096948184,
+      "lat": 52.1846896,
+      "lon": -7.8486419
+    },
+    {
+      "type": "node",
+      "id": 2096948186,
+      "lat": 52.1846977,
+      "lon": -7.8480514
+    },
+    {
+      "type": "node",
+      "id": 2096948187,
+      "lat": 52.1847037,
+      "lon": -7.8487255
+    },
+    {
+      "type": "node",
+      "id": 2096948191,
+      "lat": 52.18474,
+      "lon": -7.848673
+    },
+    {
+      "type": "node",
+      "id": 2096948195,
+      "lat": 52.1847454,
+      "lon": -7.8484575
+    },
+    {
+      "type": "node",
+      "id": 2096948197,
+      "lat": 52.1847705,
+      "lon": -7.8487847
+    },
+    {
+      "type": "node",
+      "id": 2096948200,
+      "lat": 52.1847866,
+      "lon": -7.848123
+    },
+    {
+      "type": "node",
+      "id": 2096948201,
+      "lat": 52.1847918,
+      "lon": -7.8487147
+    },
+    {
+      "type": "node",
+      "id": 2096948202,
+      "lat": 52.1847935,
+      "lon": -7.8484963
+    },
+    {
+      "type": "node",
+      "id": 5007224048,
+      "lat": 52.183891,
+      "lon": -7.8482398
+    },
+    {
+      "type": "node",
+      "id": 5007224050,
+      "lat": 52.1841026,
+      "lon": -7.8484097
+    },
+    {
+      "type": "node",
+      "id": 5007224058,
+      "lat": 52.184253,
+      "lon": -7.8484936
+    },
+    {
+      "type": "node",
+      "id": 837912718,
+      "lat": 52.7596839,
+      "lon": -7.9499731
+    },
+    {
+      "type": "node",
+      "id": 5548331323,
+      "lat": 52.7597076,
+      "lon": -7.9502628
+    },
+    {
+      "type": "node",
+      "id": 5548331324,
+      "lat": 52.7597621,
+      "lon": -7.9500213
+    },
+    {
+      "type": "node",
+      "id": 5548331325,
+      "lat": 52.7596294,
+      "lon": -7.9502147
+    },
+    {
+      "type": "node",
+      "id": 1293291016,
+      "lat": 52.9440871,
+      "lon": -8.039637
+    },
+    {
+      "type": "node",
+      "id": 1293291017,
+      "lat": 52.9439692,
+      "lon": -8.0394146
+    },
+    {
+      "type": "node",
+      "id": 1293291018,
+      "lat": 52.9439808,
+      "lon": -8.0393303
+    },
+    {
+      "type": "node",
+      "id": 1293291019,
+      "lat": 52.9440498,
+      "lon": -8.0393087
+    },
+    {
+      "type": "node",
+      "id": 2418760024,
+      "lat": 52.9439896,
+      "lon": -8.0394082
+    },
+    {
+      "type": "node",
+      "id": 2418760026,
+      "lat": 52.9439977,
+      "lon": -8.039665
+    },
+    {
+      "type": "node",
+      "id": 2421339501,
+      "lat": 52.6548073,
+      "lon": -7.25473
+    },
+    {
+      "type": "node",
+      "id": 2421339543,
+      "lat": 52.6548735,
+      "lon": -7.2547858
+    },
+    {
+      "type": "node",
+      "id": 2421339557,
+      "lat": 52.6548961,
+      "lon": -7.2547109
+    },
+    {
+      "type": "node",
+      "id": 2421339565,
+      "lat": 52.6549013,
+      "lon": -7.254694
+    },
+    {
+      "type": "node",
+      "id": 7857277642,
+      "lat": 52.6548796,
+      "lon": -7.2544948
+    },
+    {
+      "type": "node",
+      "id": 7857277646,
+      "lat": 52.6548861,
+      "lon": -7.2546059
+    },
+    {
+      "type": "node",
+      "id": 7857277647,
+      "lat": 52.6548537,
+      "lon": -7.2545787
+    },
+    {
+      "type": "node",
+      "id": 7857277648,
+      "lat": 52.6548676,
+      "lon": -7.2546658
+    },
+    {
+      "type": "node",
+      "id": 7857277649,
+      "lat": 52.6548352,
+      "lon": -7.2546386
+    },
+    {
+      "type": "node",
+      "id": 678572229,
+      "lat": 52.6566488,
+      "lon": -7.2558043
+    },
+    {
+      "type": "node",
+      "id": 2422336764,
+      "lat": 52.6565912,
+      "lon": -7.2560173
+    },
+    {
+      "type": "node",
+      "id": 2422336778,
+      "lat": 52.6566243,
+      "lon": -7.2558949
+    },
+    {
+      "type": "node",
+      "id": 2422336782,
+      "lat": 52.6566416,
+      "lon": -7.2558306
+    },
+    {
+      "type": "node",
+      "id": 2422336788,
+      "lat": 52.6566518,
+      "lon": -7.2560619
+    },
+    {
+      "type": "node",
+      "id": 2422336805,
+      "lat": 52.6567094,
+      "lon": -7.2558488
+    },
+    {
+      "type": "node",
+      "id": 7956312642,
+      "lat": 52.6566506,
+      "lon": -7.2560611
+    },
+    {
+      "type": "node",
+      "id": 7857277641,
+      "lat": 52.6549156,
+      "lon": -7.2546306
+    },
+    {
+      "type": "node",
+      "id": 7857277643,
+      "lat": 52.6549415,
+      "lon": -7.2545467
+    },
+    {
+      "type": "node",
+      "id": 5810827971,
+      "lat": 53.9719052,
+      "lon": -10.0932591
+    },
+    {
+      "type": "node",
+      "id": 5810827972,
+      "lat": 53.9719694,
+      "lon": -10.0930219
+    },
+    {
+      "type": "node",
+      "id": 5810827973,
+      "lat": 53.9718824,
+      "lon": -10.0929539
+    },
+    {
+      "type": "node",
+      "id": 5810827974,
+      "lat": 53.9718653,
+      "lon": -10.0930171
+    },
+    {
+      "type": "node",
+      "id": 5810827975,
+      "lat": 53.9718071,
+      "lon": -10.0929716
+    },
+    {
+      "type": "node",
+      "id": 5810827976,
+      "lat": 53.9717421,
+      "lon": -10.0932118
+    },
+    {
+      "type": "node",
+      "id": 5810827977,
+      "lat": 53.9718389,
+      "lon": -10.0932874
+    },
+    {
+      "type": "node",
+      "id": 5810827978,
+      "lat": 53.9718568,
+      "lon": -10.0932212
+    },
+    {
+      "type": "node",
+      "id": 2508815823,
+      "lat": 53.5543419,
+      "lon": -9.9506319
+    },
+    {
+      "type": "node",
+      "id": 2508815970,
+      "lat": 53.5543454,
+      "lon": -9.9507349
+    },
+    {
+      "type": "node",
+      "id": 2508816028,
+      "lat": 53.5543904,
+      "lon": -9.9508081
+    },
+    {
+      "type": "node",
+      "id": 2508816077,
+      "lat": 53.554261,
+      "lon": -9.9507513
+    },
+    {
+      "type": "node",
+      "id": 2508816158,
+      "lat": 53.554249,
+      "lon": -9.9507115
+    },
+    {
+      "type": "node",
+      "id": 2508816241,
+      "lat": 53.554323,
+      "lon": -9.9509589
+    },
+    {
+      "type": "node",
+      "id": 2508816316,
+      "lat": 53.5543039,
+      "lon": -9.9508959
+    },
+    {
+      "type": "node",
+      "id": 2508816335,
+      "lat": 53.5541748,
+      "lon": -9.9508252
+    },
+    {
+      "type": "node",
+      "id": 2508816346,
+      "lat": 53.5542183,
+      "lon": -9.9509692
+    },
+    {
+      "type": "node",
+      "id": 2508816376,
+      "lat": 53.5543674,
+      "lon": -9.9507161
+    },
+    {
+      "type": "node",
+      "id": 2508816460,
+      "lat": 53.5544128,
+      "lon": -9.950882
+    },
+    {
+      "type": "node",
+      "id": 2508816483,
+      "lat": 53.5543722,
+      "lon": -9.9508236
+    },
+    {
+      "type": "node",
+      "id": 2519299104,
+      "lat": 53.5542589,
+      "lon": -9.9496519
+    },
+    {
+      "type": "node",
+      "id": 2519299107,
+      "lat": 53.5543642,
+      "lon": -9.9499248
+    },
+    {
+      "type": "node",
+      "id": 2519299110,
+      "lat": 53.5544418,
+      "lon": -9.94984
+    },
+    {
+      "type": "node",
+      "id": 2519299122,
+      "lat": 53.5543463,
+      "lon": -9.9497285
+    },
+    {
+      "type": "node",
+      "id": 2519299127,
+      "lat": 53.5542996,
+      "lon": -9.9496074
+    },
+    {
+      "type": "node",
+      "id": 2519299186,
+      "lat": 53.5543832,
+      "lon": -9.9496882
+    },
+    {
+      "type": "node",
+      "id": 6966626683,
+      "lat": 53.5543506,
+      "lon": -9.9507521
+    },
+    {
+      "type": "node",
+      "id": 2511399614,
+      "lat": 53.5519733,
+      "lon": -9.9459775
+    },
+    {
+      "type": "node",
+      "id": 2511399645,
+      "lat": 53.5518761,
+      "lon": -9.9458852
+    },
+    {
+      "type": "node",
+      "id": 2511399652,
+      "lat": 53.552033,
+      "lon": -9.9458655
+    },
+    {
+      "type": "node",
+      "id": 2511399684,
+      "lat": 53.5520367,
+      "lon": -9.9459711
+    },
+    {
+      "type": "node",
+      "id": 2511399702,
+      "lat": 53.5518841,
+      "lon": -9.9461108
+    },
+    {
+      "type": "node",
+      "id": 2511399707,
+      "lat": 53.5521112,
+      "lon": -9.9460879
+    },
+    {
+      "type": "node",
+      "id": 2511399812,
+      "lat": 53.5519697,
+      "lon": -9.9458757
+    },
+    {
+      "type": "node",
+      "id": 2511399877,
+      "lat": 53.5521031,
+      "lon": -9.9458584
+    },
+    {
+      "type": "node",
+      "id": 4026770104,
+      "lat": 53.8037122,
+      "lon": -9.9496782
+    },
+    {
+      "type": "node",
+      "id": 4026770108,
+      "lat": 53.803831,
+      "lon": -9.9500184
+    },
+    {
+      "type": "node",
+      "id": 4026770109,
+      "lat": 53.8038555,
+      "lon": -9.9495347
+    },
+    {
+      "type": "node",
+      "id": 4026770112,
+      "lat": 53.8039312,
+      "lon": -9.9497514
+    },
+    {
+      "type": "node",
+      "id": 8000727960,
+      "lat": 53.8038591,
+      "lon": -9.9498236
+    },
+    {
+      "type": "node",
+      "id": 8000727961,
+      "lat": 53.8039022,
+      "lon": -9.9499471
+    },
+    {
+      "type": "node",
+      "id": 1878846565,
+      "lat": 54.2659924,
+      "lon": -9.8009568
+    },
+    {
+      "type": "node",
+      "id": 1878846566,
+      "lat": 54.2660056,
+      "lon": -9.8006312
+    },
+    {
+      "type": "node",
+      "id": 1878846567,
+      "lat": 54.2660415,
+      "lon": -9.8010199
+    },
+    {
+      "type": "node",
+      "id": 1878846569,
+      "lat": 54.2660438,
+      "lon": -9.8009629
+    },
+    {
+      "type": "node",
+      "id": 1878846570,
+      "lat": 54.2660571,
+      "lon": -9.8007875
+    },
+    {
+      "type": "node",
+      "id": 1878846575,
+      "lat": 54.2660632,
+      "lon": -9.800638
+    },
+    {
+      "type": "node",
+      "id": 1878846577,
+      "lat": 54.2661253,
+      "lon": -9.8008786
+    },
+    {
+      "type": "node",
+      "id": 1878846579,
+      "lat": 54.2661286,
+      "lon": -9.8007959
+    },
+    {
+      "type": "node",
+      "id": 1878846591,
+      "lat": 54.2663596,
+      "lon": -9.8010576
+    },
+    {
+      "type": "node",
+      "id": 1878846592,
+      "lat": 54.2663657,
+      "lon": -9.800907
+    },
+    {
+      "type": "node",
+      "id": 4367012952,
+      "lat": 54.2661384,
+      "lon": -8.5955021
+    },
+    {
+      "type": "node",
+      "id": 4367012958,
+      "lat": 54.2661707,
+      "lon": -8.5956134
+    },
+    {
+      "type": "node",
+      "id": 4367012959,
+      "lat": 54.2661732,
+      "lon": -8.595685
+    },
+    {
+      "type": "node",
+      "id": 4367012963,
+      "lat": 54.266199,
+      "lon": -8.5955893
+    },
+    {
+      "type": "node",
+      "id": 4367012965,
+      "lat": 54.2662162,
+      "lon": -8.5956484
+    },
+    {
+      "type": "node",
+      "id": 4367012972,
+      "lat": 54.266263,
+      "lon": -8.5953215
+    },
+    {
+      "type": "node",
+      "id": 4367012973,
+      "lat": 54.2662665,
+      "lon": -8.5955401
+    },
+    {
+      "type": "node",
+      "id": 4367012975,
+      "lat": 54.2662838,
+      "lon": -8.5955997
+    },
+    {
+      "type": "node",
+      "id": 4367012978,
+      "lat": 54.2663159,
+      "lon": -8.5959055
+    },
+    {
+      "type": "node",
+      "id": 4367012979,
+      "lat": 54.2663146,
+      "lon": -8.5954991
+    },
+    {
+      "type": "node",
+      "id": 4367012982,
+      "lat": 54.2663273,
+      "lon": -8.5955626
+    },
+    {
+      "type": "node",
+      "id": 4367012983,
+      "lat": 54.2663366,
+      "lon": -8.5958878
+    },
+    {
+      "type": "node",
+      "id": 4367012984,
+      "lat": 54.2663407,
+      "lon": -8.5956087
+    },
+    {
+      "type": "node",
+      "id": 4367012988,
+      "lat": 54.2663567,
+      "lon": -8.5958707
+    },
+    {
+      "type": "node",
+      "id": 4367012991,
+      "lat": 54.2663675,
+      "lon": -8.5957219
+    },
+    {
+      "type": "node",
+      "id": 4367012996,
+      "lat": 54.2663915,
+      "lon": -8.5955654
+    },
+    {
+      "type": "node",
+      "id": 4367013002,
+      "lat": 54.2664232,
+      "lon": -8.5956744
+    },
+    {
+      "type": "node",
+      "id": 7253180834,
+      "lat": 54.2662525,
+      "lon": -8.5953305
+    },
+    {
+      "type": "node",
+      "id": 7253180835,
+      "lat": 54.2663383,
+      "lon": -8.5958076
+    },
+    {
+      "type": "node",
+      "id": 7253180836,
+      "lat": 54.2663817,
+      "lon": -8.5957706
+    },
+    {
+      "type": "node",
+      "id": 7253180837,
+      "lat": 54.2662975,
+      "lon": -8.5958423
+    },
+    {
+      "type": "node",
+      "id": 7253180838,
+      "lat": 54.2662346,
+      "lon": -8.595896
+    },
+    {
+      "type": "node",
+      "id": 7253180839,
+      "lat": 54.2662163,
+      "lon": -8.5954357
+    },
+    {
+      "type": "node",
+      "id": 7253180840,
+      "lat": 54.266199,
+      "lon": -8.5953761
+    },
+    {
+      "type": "node",
+      "id": 2583736306,
+      "lat": 54.278197,
+      "lon": -8.48612
+    },
+    {
+      "type": "node",
+      "id": 2583736312,
+      "lat": 54.2782347,
+      "lon": -8.4859856
+    },
+    {
+      "type": "node",
+      "id": 2583736326,
+      "lat": 54.2783953,
+      "lon": -8.4862835
+    },
+    {
+      "type": "node",
+      "id": 2583736330,
+      "lat": 54.2784331,
+      "lon": -8.4861491
+    },
+    {
+      "type": "node",
+      "id": 6767281359,
+      "lat": 54.4128003,
+      "lon": -8.3904519
+    },
+    {
+      "type": "node",
+      "id": 6767281360,
+      "lat": 54.4128111,
+      "lon": -8.3903727
+    },
+    {
+      "type": "node",
+      "id": 6767281361,
+      "lat": 54.4127425,
+      "lon": -8.3903452
+    },
+    {
+      "type": "node",
+      "id": 6767281362,
+      "lat": 54.4127215,
+      "lon": -8.3904203
+    },
+    {
+      "type": "node",
+      "id": 6767281363,
+      "lat": 54.4129293,
+      "lon": -8.3906135
+    },
+    {
+      "type": "node",
+      "id": 6767281364,
+      "lat": 54.4128607,
+      "lon": -8.390586
+    },
+    {
+      "type": "node",
+      "id": 6767281365,
+      "lat": 54.4128621,
+      "lon": -8.3905759
+    },
+    {
+      "type": "node",
+      "id": 6767281366,
+      "lat": 54.4129314,
+      "lon": -8.3905979
+    },
+    {
+      "type": "node",
+      "id": 6767281367,
+      "lat": 54.4129941,
+      "lon": -8.3903338
+    },
+    {
+      "type": "node",
+      "id": 6767281368,
+      "lat": 54.4127569,
+      "lon": -8.3902386
+    },
+    {
+      "type": "node",
+      "id": 6767281369,
+      "lat": 54.4127087,
+      "lon": -8.3905144
+    },
+    {
+      "type": "node",
+      "id": 6767281370,
+      "lat": 54.4129569,
+      "lon": -8.3906081
+    },
+    {
+      "type": "node",
+      "id": 2093016700,
+      "lat": 54.6682606,
+      "lon": -8.7844364
+    },
+    {
+      "type": "node",
+      "id": 2093016706,
+      "lat": 54.6683154,
+      "lon": -8.7845236
+    },
+    {
+      "type": "node",
+      "id": 2093016707,
+      "lat": 54.6683303,
+      "lon": -8.7842186
+    },
+    {
+      "type": "node",
+      "id": 2093016711,
+      "lat": 54.6683489,
+      "lon": -8.7842652
+    },
+    {
+      "type": "node",
+      "id": 2093016712,
+      "lat": 54.6683538,
+      "lon": -8.784256
+    },
+    {
+      "type": "node",
+      "id": 2093016714,
+      "lat": 54.668364,
+      "lon": -8.7841553
+    },
+    {
+      "type": "node",
+      "id": 2093016717,
+      "lat": 54.6683875,
+      "lon": -8.7841927
+    },
+    {
+      "type": "node",
+      "id": 2093016718,
+      "lat": 54.6683923,
+      "lon": -8.7841837
+    },
+    {
+      "type": "node",
+      "id": 2093016719,
+      "lat": 54.6684052,
+      "lon": -8.784355
+    },
+    {
+      "type": "node",
+      "id": 2093016720,
+      "lat": 54.6684129,
+      "lon": -8.7843672
+    },
+    {
+      "type": "node",
+      "id": 2093016724,
+      "lat": 54.6684563,
+      "lon": -8.7842857
+    },
+    {
+      "type": "node",
+      "id": 2094174142,
+      "lat": 54.6683505,
+      "lon": -8.7842678
+    },
+    {
+      "type": "node",
+      "id": 2094174144,
+      "lat": 54.6684527,
+      "lon": -8.7842924
+    },
+    {
+      "type": "node",
+      "id": 1963769336,
+      "lat": 54.7086375,
+      "lon": -8.7313132
+    },
+    {
+      "type": "node",
+      "id": 1963769338,
+      "lat": 54.7086564,
+      "lon": -8.7314693
+    },
+    {
+      "type": "node",
+      "id": 1963769343,
+      "lat": 54.7088544,
+      "lon": -8.7312345
+    },
+    {
+      "type": "node",
+      "id": 1963769345,
+      "lat": 54.7088733,
+      "lon": -8.7313906
+    },
+    {
+      "type": "node",
+      "id": 5290766417,
+      "lat": 54.7617352,
+      "lon": -8.4133595
+    },
+    {
+      "type": "node",
+      "id": 5290766418,
+      "lat": 54.761668,
+      "lon": -8.4134531
+    },
+    {
+      "type": "node",
+      "id": 5292091105,
+      "lat": 54.761675,
+      "lon": -8.4132241
+    },
+    {
+      "type": "node",
+      "id": 5292091106,
+      "lat": 54.7615953,
+      "lon": -8.4133208
+    },
+    {
+      "type": "node",
+      "id": 5292091107,
+      "lat": 54.7615225,
+      "lon": -8.41338
+    },
+    {
+      "type": "node",
+      "id": 5292091108,
+      "lat": 54.7615542,
+      "lon": -8.4134939
+    },
+    {
+      "type": "node",
+      "id": 5292091109,
+      "lat": 54.7616355,
+      "lon": -8.4134196
+    },
+    {
+      "type": "node",
+      "id": 7299606301,
+      "lat": 54.103004,
+      "lon": -8.3361968
+    },
+    {
+      "type": "node",
+      "id": 7299606302,
+      "lat": 54.1030112,
+      "lon": -8.3362061
+    },
+    {
+      "type": "node",
+      "id": 7299606303,
+      "lat": 54.1030004,
+      "lon": -8.3361922
+    },
+    {
+      "type": "node",
+      "id": 7299606304,
+      "lat": 54.1029917,
+      "lon": -8.3364186
+    },
+    {
+      "type": "node",
+      "id": 7299606305,
+      "lat": 54.1029956,
+      "lon": -8.336415
+    },
+    {
+      "type": "node",
+      "id": 7299606306,
+      "lat": 54.1031351,
+      "lon": -8.3365262
+    },
+    {
+      "type": "node",
+      "id": 7299606307,
+      "lat": 54.1030738,
+      "lon": -8.3365247
+    },
+    {
+      "type": "node",
+      "id": 7299606308,
+      "lat": 54.1030073,
+      "lon": -8.3364521
+    },
+    {
+      "type": "node",
+      "id": 7299606309,
+      "lat": 54.1030402,
+      "lon": -8.336502
+    },
+    {
+      "type": "node",
+      "id": 7299606310,
+      "lat": 54.1030707,
+      "lon": -8.3365226
+    },
+    {
+      "type": "node",
+      "id": 7299606311,
+      "lat": 54.1030737,
+      "lon": -8.3365329
+    },
+    {
+      "type": "node",
+      "id": 7299606312,
+      "lat": 54.1031327,
+      "lon": -8.3365115
+    },
+    {
+      "type": "node",
+      "id": 7299606313,
+      "lat": 54.1031364,
+      "lon": -8.3365336
+    },
+    {
+      "type": "node",
+      "id": 7299606314,
+      "lat": 54.1029848,
+      "lon": -8.3362354
+    },
+    {
+      "type": "node",
+      "id": 7299606315,
+      "lat": 54.1029756,
+      "lon": -8.3363115
+    },
+    {
+      "type": "node",
+      "id": 7299606316,
+      "lat": 54.1029821,
+      "lon": -8.3363884
+    },
+    {
+      "type": "node",
+      "id": 7299606317,
+      "lat": 54.1030802,
+      "lon": -8.3365373
+    },
+    {
+      "type": "node",
+      "id": 7299606318,
+      "lat": 54.1031257,
+      "lon": -8.3365396
+    },
+    {
+      "type": "node",
+      "id": 7299606319,
+      "lat": 54.1032243,
+      "lon": -8.336324
+    },
+    {
+      "type": "node",
+      "id": 7299606320,
+      "lat": 54.1032184,
+      "lon": -8.3362551
+    },
+    {
+      "type": "node",
+      "id": 7299606321,
+      "lat": 54.103199,
+      "lon": -8.3361938
+    },
+    {
+      "type": "node",
+      "id": 7299606326,
+      "lat": 54.103019,
+      "lon": -8.3361847
+    },
+    {
+      "type": "node",
+      "id": 7299606327,
+      "lat": 54.1031625,
+      "lon": -8.3364946
+    },
+    {
+      "type": "node",
+      "id": 7299606328,
+      "lat": 54.1031946,
+      "lon": -8.3364515
+    },
+    {
+      "type": "node",
+      "id": 7299606329,
+      "lat": 54.103216,
+      "lon": -8.3363922
+    },
+    {
+      "type": "node",
+      "id": 7299606322,
+      "lat": 54.1031685,
+      "lon": -8.3361475
+    },
+    {
+      "type": "node",
+      "id": 7299606323,
+      "lat": 54.1031306,
+      "lon": -8.3361217
+    },
+    {
+      "type": "node",
+      "id": 7299606324,
+      "lat": 54.1030898,
+      "lon": -8.3361197
+    },
+    {
+      "type": "node",
+      "id": 7299606325,
+      "lat": 54.103051,
+      "lon": -8.3361416
+    },
+    {
+      "type": "node",
+      "id": 3536172895,
+      "lat": 53.5561847,
+      "lon": -6.7910984
+    },
+    {
+      "type": "node",
+      "id": 3536172961,
+      "lat": 53.5562755,
+      "lon": -6.7910502
+    },
+    {
+      "type": "node",
+      "id": 3536172984,
+      "lat": 53.5562251,
+      "lon": -6.7912583
+    },
+    {
+      "type": "node",
+      "id": 3536173009,
+      "lat": 53.5563121,
+      "lon": -6.7912111
+    },
+    {
+      "type": "node",
+      "id": 2624575980,
+      "lat": 54.4143761,
+      "lon": -8.0910719
+    },
+    {
+      "type": "node",
+      "id": 2624575982,
+      "lat": 54.4144092,
+      "lon": -8.0909121
+    },
+    {
+      "type": "node",
+      "id": 2624576000,
+      "lat": 54.4145121,
+      "lon": -8.0916227
+    },
+    {
+      "type": "node",
+      "id": 2624576002,
+      "lat": 54.4145294,
+      "lon": -8.0919311
+    },
+    {
+      "type": "node",
+      "id": 2624576003,
+      "lat": 54.414543,
+      "lon": -8.0913555
+    },
+    {
+      "type": "node",
+      "id": 2624576012,
+      "lat": 54.4145631,
+      "lon": -8.0916401
+    },
+    {
+      "type": "node",
+      "id": 2624576019,
+      "lat": 54.4145764,
+      "lon": -8.0911726
+    },
+    {
+      "type": "node",
+      "id": 2624576023,
+      "lat": 54.4145861,
+      "lon": -8.0919491
+    },
+    {
+      "type": "node",
+      "id": 2624576031,
+      "lat": 54.414628,
+      "lon": -8.0913678
+    },
+    {
+      "type": "node",
+      "id": 2624576039,
+      "lat": 54.4146211,
+      "lon": -8.0910725
+    },
+    {
+      "type": "node",
+      "id": 5218141344,
+      "lat": 54.4146319,
+      "lon": -8.0915393
+    },
+    {
+      "type": "node",
+      "id": 5218141345,
+      "lat": 54.4146075,
+      "lon": -8.0915298
+    },
+    {
+      "type": "node",
+      "id": 5218141346,
+      "lat": 54.4146599,
+      "lon": -8.0913802
+    },
+    {
+      "type": "node",
+      "id": 5218141347,
+      "lat": 54.4146722,
+      "lon": -8.0913738
+    },
+    {
+      "type": "node",
+      "id": 5218141348,
+      "lat": 54.4146769,
+      "lon": -8.0913514
+    },
+    {
+      "type": "node",
+      "id": 5218141349,
+      "lat": 54.4146676,
+      "lon": -8.0913313
+    },
+    {
+      "type": "node",
+      "id": 5218141350,
+      "lat": 54.4146536,
+      "lon": -8.0913225
+    },
+    {
+      "type": "node",
+      "id": 5218141351,
+      "lat": 54.4146922,
+      "lon": -8.091118
+    },
+    {
+      "type": "node",
+      "id": 5218141352,
+      "lat": 54.4146291,
+      "lon": -8.0910246
+    },
+    {
+      "type": "node",
+      "id": 5218141353,
+      "lat": 54.4144328,
+      "lon": -8.0911004
+    },
+    {
+      "type": "node",
+      "id": 5218141354,
+      "lat": 54.4143508,
+      "lon": -8.0913881
+    },
+    {
+      "type": "node",
+      "id": 5218141355,
+      "lat": 54.4142982,
+      "lon": -8.0913431
+    },
+    {
+      "type": "node",
+      "id": 5001741020,
+      "lat": 54.692779,
+      "lon": -8.189108
+    },
+    {
+      "type": "node",
+      "id": 5001742821,
+      "lat": 54.6925113,
+      "lon": -8.1889019
+    },
+    {
+      "type": "node",
+      "id": 5001742822,
+      "lat": 54.6924564,
+      "lon": -8.1891153
+    },
+    {
+      "type": "node",
+      "id": 5001742823,
+      "lat": 54.6927241,
+      "lon": -8.1893214
+    },
+    {
+      "type": "node",
+      "id": 2114896299,
+      "lat": 54.6561086,
+      "lon": -8.1261177
+    },
+    {
+      "type": "node",
+      "id": 2114896300,
+      "lat": 54.6561747,
+      "lon": -8.1262049
+    },
+    {
+      "type": "node",
+      "id": 2114896301,
+      "lat": 54.6562484,
+      "lon": -8.1257675
+    },
+    {
+      "type": "node",
+      "id": 2114896302,
+      "lat": 54.6561805,
+      "lon": -8.125955
+    },
+    {
+      "type": "node",
+      "id": 2114896303,
+      "lat": 54.656182,
+      "lon": -8.1258523
+    },
+    {
+      "type": "node",
+      "id": 2114896304,
+      "lat": 54.6561528,
+      "lon": -8.1259185
+    },
+    {
+      "type": "node",
+      "id": 2114896305,
+      "lat": 54.6563239,
+      "lon": -8.1258672
+    },
+    {
+      "type": "node",
+      "id": 2114896306,
+      "lat": 54.6562003,
+      "lon": -8.1258764
+    },
+    {
+      "type": "node",
+      "id": 1591440833,
+      "lat": 52.9917618,
+      "lon": -6.4219604
+    },
+    {
+      "type": "node",
+      "id": 1591440834,
+      "lat": 52.9916947,
+      "lon": -6.4218195
+    },
+    {
+      "type": "node",
+      "id": 1591440836,
+      "lat": 52.9916253,
+      "lon": -6.4219054
+    },
+    {
+      "type": "node",
+      "id": 1591440838,
+      "lat": 52.9916576,
+      "lon": -6.4219764
+    },
+    {
+      "type": "node",
+      "id": 2580670954,
+      "lat": 52.9917383,
+      "lon": -6.4219885
+    },
+    {
+      "type": "node",
+      "id": 2580670956,
+      "lat": 52.991706,
+      "lon": -6.4219201
+    },
+    {
+      "type": "node",
+      "id": 3065628380,
+      "lat": 53.0115061,
+      "lon": -6.3308415
+    },
+    {
+      "type": "node",
+      "id": 3065628381,
+      "lat": 53.0115113,
+      "lon": -6.3307848
+    },
+    {
+      "type": "node",
+      "id": 3065628406,
+      "lat": 53.0117211,
+      "lon": -6.3308959
+    },
+    {
+      "type": "node",
+      "id": 3065628371,
+      "lat": 53.0113793,
+      "lon": -6.3307514
+    },
+    {
+      "type": "node",
+      "id": 3065628372,
+      "lat": 53.0113927,
+      "lon": -6.3306057
+    },
+    {
+      "type": "node",
+      "id": 3065628373,
+      "lat": 53.0114143,
+      "lon": -6.3306111
+    },
+    {
+      "type": "node",
+      "id": 3065628374,
+      "lat": 53.0114261,
+      "lon": -6.3304822
+    },
+    {
+      "type": "node",
+      "id": 3065628375,
+      "lat": 53.0114554,
+      "lon": -6.3304896
+    },
+    {
+      "type": "node",
+      "id": 3065628377,
+      "lat": 53.0114699,
+      "lon": -6.3303319
+    },
+    {
+      "type": "node",
+      "id": 3065628383,
+      "lat": 53.0115199,
+      "lon": -6.3306965
+    },
+    {
+      "type": "node",
+      "id": 3065628386,
+      "lat": 53.0115303,
+      "lon": -6.3305898
+    },
+    {
+      "type": "node",
+      "id": 3065628389,
+      "lat": 53.0115754,
+      "lon": -6.3305272
+    },
+    {
+      "type": "node",
+      "id": 3065628391,
+      "lat": 53.0115905,
+      "lon": -6.3303623
+    },
+    {
+      "type": "node",
+      "id": 3067966187,
+      "lat": 53.0115311,
+      "lon": -6.3305901
+    },
+    {
+      "type": "node",
+      "id": 3067966195,
+      "lat": 53.0116239,
+      "lon": -6.3305394
+    },
+    {
+      "type": "node",
+      "id": 3067966196,
+      "lat": 53.0116334,
+      "lon": -6.3307271
+    },
+    {
+      "type": "node",
+      "id": 3067966197,
+      "lat": 53.0116362,
+      "lon": -6.3304056
+    },
+    {
+      "type": "node",
+      "id": 3067966198,
+      "lat": 53.0116438,
+      "lon": -6.3306204
+    },
+    {
+      "type": "node",
+      "id": 3067966201,
+      "lat": 53.0116887,
+      "lon": -6.3304453
+    },
+    {
+      "type": "node",
+      "id": 3067966202,
+      "lat": 53.011691,
+      "lon": -6.3304194
+    },
+    {
+      "type": "node",
+      "id": 3067966204,
+      "lat": 53.0117346,
+      "lon": -6.3307489
+    },
+    {
+      "type": "node",
+      "id": 3067966205,
+      "lat": 53.0117108,
+      "lon": -6.3307429
+    },
+    {
+      "type": "node",
+      "id": 3067966206,
+      "lat": 53.0117206,
+      "lon": -6.3306358
+    },
+    {
+      "type": "node",
+      "id": 3067966209,
+      "lat": 53.0117496,
+      "lon": -6.3305497
+    },
+    {
+      "type": "node",
+      "id": 3067966210,
+      "lat": 53.0117576,
+      "lon": -6.3304627
+    },
+    {
+      "type": "node",
+      "id": 3067966211,
+      "lat": 53.011767,
+      "lon": -6.3306475
+    },
+    {
+      "type": "node",
+      "id": 3067966212,
+      "lat": 53.0117754,
+      "lon": -6.3305563
+    },
+    {
+      "type": "node",
+      "id": 2454194535,
+      "lat": 53.0078683,
+      "lon": -6.2972874
+    },
+    {
+      "type": "node",
+      "id": 2454194537,
+      "lat": 53.0078755,
+      "lon": -6.2973118
+    },
+    {
+      "type": "node",
+      "id": 2454194900,
+      "lat": 53.0078,
+      "lon": -6.2973734
+    },
+    {
+      "type": "node",
+      "id": 2454194936,
+      "lat": 53.0079062,
+      "lon": -6.2972565
+    },
+    {
+      "type": "node",
+      "id": 2454195260,
+      "lat": 53.0078726,
+      "lon": -6.2971425
+    },
+    {
+      "type": "node",
+      "id": 2454195363,
+      "lat": 53.0077591,
+      "lon": -6.2972352
+    },
+    {
+      "type": "node",
+      "id": 2857572640,
+      "lat": 53.3396522,
+      "lon": -6.2657658
+    },
+    {
+      "type": "node",
+      "id": 2857572641,
+      "lat": 53.3396182,
+      "lon": -6.2657716
+    },
+    {
+      "type": "node",
+      "id": 2857572642,
+      "lat": 53.3395982,
+      "lon": -6.26575
+    },
+    {
+      "type": "node",
+      "id": 2857572643,
+      "lat": 53.339553,
+      "lon": -6.2654828
+    },
+    {
+      "type": "node",
+      "id": 2857572644,
+      "lat": 53.3396202,
+      "lon": -6.2654413
+    },
+    {
+      "type": "node",
+      "id": 2857572647,
+      "lat": 53.3396401,
+      "lon": -6.2655921
+    },
+    {
+      "type": "node",
+      "id": 2263316651,
+      "lat": 53.3474434,
+      "lon": -6.2604482
+    },
+    {
+      "type": "node",
+      "id": 2263316653,
+      "lat": 53.3473608,
+      "lon": -6.2604255
+    },
+    {
+      "type": "node",
+      "id": 2364274655,
+      "lat": 53.3473843,
+      "lon": -6.2603181
+    },
+    {
+      "type": "node",
+      "id": 2364274678,
+      "lat": 53.3474845,
+      "lon": -6.2603529
+    },
+    {
+      "type": "node",
+      "id": 2364274691,
+      "lat": 53.3475893,
+      "lon": -6.2604905
+    },
+    {
+      "type": "node",
+      "id": 2364274694,
+      "lat": 53.3476019,
+      "lon": -6.2603892
+    },
+    {
+      "type": "node",
+      "id": 2386544551,
+      "lat": 53.3443519,
+      "lon": -6.2646769
+    },
+    {
+      "type": "node",
+      "id": 2788172513,
+      "lat": 53.3462959,
+      "lon": -6.2612643
+    },
+    {
+      "type": "node",
+      "id": 2788172514,
+      "lat": 53.3462959,
+      "lon": -6.2612791
+    },
+    {
+      "type": "node",
+      "id": 2788172515,
+      "lat": 53.3461516,
+      "lon": -6.2612697
+    },
+    {
+      "type": "node",
+      "id": 2788172517,
+      "lat": 53.3463247,
+      "lon": -6.2612657
+    },
+    {
+      "type": "node",
+      "id": 2788172523,
+      "lat": 53.3463864,
+      "lon": -6.2610176
+    },
+    {
+      "type": "node",
+      "id": 2788172524,
+      "lat": 53.3462207,
+      "lon": -6.2610042
+    },
+    {
+      "type": "node",
+      "id": 2788172527,
+      "lat": 53.3461774,
+      "lon": -6.2612268
+    },
+    {
+      "type": "node",
+      "id": 2788172528,
+      "lat": 53.3461646,
+      "lon": -6.2612281
+    },
+    {
+      "type": "node",
+      "id": 2788172530,
+      "lat": 53.346131,
+      "lon": -6.2612161
+    },
+    {
+      "type": "node",
+      "id": 2788172531,
+      "lat": 53.3461278,
+      "lon": -6.2612536
+    },
+    {
+      "type": "node",
+      "id": 2853176576,
+      "lat": 53.3443515,
+      "lon": -6.2647984
+    },
+    {
+      "type": "node",
+      "id": 2853176579,
+      "lat": 53.3443518,
+      "lon": -6.2646985
+    },
+    {
+      "type": "node",
+      "id": 2853176582,
+      "lat": 53.3444381,
+      "lon": -6.2647994
+    },
+    {
+      "type": "node",
+      "id": 2853176583,
+      "lat": 53.3444386,
+      "lon": -6.2646778
+    },
+    {
+      "type": "node",
+      "id": 2368289002,
+      "lat": 53.3461631,
+      "lon": -6.2575281
+    },
+    {
+      "type": "node",
+      "id": 2368289009,
+      "lat": 53.3462327,
+      "lon": -6.2573933
+    },
+    {
+      "type": "node",
+      "id": 2368289012,
+      "lat": 53.3462531,
+      "lon": -6.2576585
+    },
+    {
+      "type": "node",
+      "id": 2368289016,
+      "lat": 53.3463227,
+      "lon": -6.2575236
+    },
+    {
+      "type": "node",
+      "id": 2588324895,
+      "lat": 53.3535117,
+      "lon": -6.2596629
+    },
+    {
+      "type": "node",
+      "id": 2588339890,
+      "lat": 53.3534692,
+      "lon": -6.2597581
+    },
+    {
+      "type": "node",
+      "id": 2588339892,
+      "lat": 53.3535473,
+      "lon": -6.2598607
+    },
+    {
+      "type": "node",
+      "id": 2588339895,
+      "lat": 53.3535897,
+      "lon": -6.2597675
+    },
+    {
+      "type": "node",
+      "id": 2588339900,
+      "lat": 53.3535745,
+      "lon": -6.2597465
+    },
+    {
+      "type": "node",
+      "id": 2418676853,
+      "lat": 53.3498634,
+      "lon": -6.253412
+    },
+    {
+      "type": "node",
+      "id": 2418676855,
+      "lat": 53.3498738,
+      "lon": -6.2530491
+    },
+    {
+      "type": "node",
+      "id": 2418676856,
+      "lat": 53.3498785,
+      "lon": -6.2529544
+    },
+    {
+      "type": "node",
+      "id": 2418676857,
+      "lat": 53.3498793,
+      "lon": -6.252893
+    },
+    {
+      "type": "node",
+      "id": 2418676859,
+      "lat": 53.3498889,
+      "lon": -6.252837
+    },
+    {
+      "type": "node",
+      "id": 2418676863,
+      "lat": 53.3500195,
+      "lon": -6.2535053
+    },
+    {
+      "type": "node",
+      "id": 2418676864,
+      "lat": 53.3500434,
+      "lon": -6.2531585
+    },
+    {
+      "type": "node",
+      "id": 2418676866,
+      "lat": 53.3500625,
+      "lon": -6.2530771
+    },
+    {
+      "type": "node",
+      "id": 2418676870,
+      "lat": 53.3501692,
+      "lon": -6.2530344
+    },
+    {
+      "type": "node",
+      "id": 2585762986,
+      "lat": 53.3514356,
+      "lon": -6.2547457
+    },
+    {
+      "type": "node",
+      "id": 2585762987,
+      "lat": 53.3514775,
+      "lon": -6.2545714
+    },
+    {
+      "type": "node",
+      "id": 2585762988,
+      "lat": 53.3513706,
+      "lon": -6.2547018
+    },
+    {
+      "type": "node",
+      "id": 2585762989,
+      "lat": 53.3514125,
+      "lon": -6.2545275
+    },
+    {
+      "type": "node",
+      "id": 6544763308,
+      "lat": 53.3499092,
+      "lon": -6.2582207
+    },
+    {
+      "type": "node",
+      "id": 6544763309,
+      "lat": 53.3498864,
+      "lon": -6.258373
+    },
+    {
+      "type": "node",
+      "id": 6544763328,
+      "lat": 53.3498441,
+      "lon": -6.2581921
+    },
+    {
+      "type": "node",
+      "id": 6544763329,
+      "lat": 53.349823,
+      "lon": -6.2583491
+    },
+    {
+      "type": "node",
+      "id": 567777023,
+      "lat": 53.3505286,
+      "lon": -6.2517059
+    },
+    {
+      "type": "node",
+      "id": 3329337232,
+      "lat": 53.350574,
+      "lon": -6.2518841
+    },
+    {
+      "type": "node",
+      "id": 3465613091,
+      "lat": 53.3505935,
+      "lon": -6.2519606
+    },
+    {
+      "type": "node",
+      "id": 3465613393,
+      "lat": 53.3508632,
+      "lon": -6.2516376
+    },
+    {
+      "type": "node",
+      "id": 3465613394,
+      "lat": 53.3509292,
+      "lon": -6.2515934
+    },
+    {
+      "type": "node",
+      "id": 3465613395,
+      "lat": 53.3508972,
+      "lon": -6.2514591
+    },
+    {
+      "type": "node",
+      "id": 5782005361,
+      "lat": 53.3508927,
+      "lon": -6.251772
+    },
+    {
+      "type": "node",
+      "id": 5782005366,
+      "lat": 53.3508019,
+      "lon": -6.2518314
+    },
+    {
+      "type": "node",
+      "id": 258747965,
+      "lat": 54.1097386,
+      "lon": -6.0427635
+    },
+    {
+      "type": "node",
+      "id": 5916051061,
+      "lat": 54.1097368,
+      "lon": -6.0429265
+    },
+    {
+      "type": "node",
+      "id": 5916051062,
+      "lat": 54.1097761,
+      "lon": -6.0427647
+    },
+    {
+      "type": "node",
+      "id": 5916051063,
+      "lat": 54.1097772,
+      "lon": -6.0426669
+    },
+    {
+      "type": "node",
+      "id": 5916051064,
+      "lat": 54.109737,
+      "lon": -6.0426657
+    },
+    {
+      "type": "node",
+      "id": 5916051065,
+      "lat": 54.1097391,
+      "lon": -6.0424723
+    },
+    {
+      "type": "node",
+      "id": 5916051058,
+      "lat": 54.1099127,
+      "lon": -6.042773
+    },
+    {
+      "type": "node",
+      "id": 5916051059,
+      "lat": 54.1099446,
+      "lon": -6.042774
+    },
+    {
+      "type": "node",
+      "id": 5916051060,
+      "lat": 54.1099428,
+      "lon": -6.0429329
+    },
+    {
+      "type": "node",
+      "id": 5916051066,
+      "lat": 54.1099158,
+      "lon": -6.0424779
+    },
+    {
+      "type": "node",
+      "id": 4531692618,
+      "lat": 54.3494911,
+      "lon": -6.6586176
+    },
+    {
+      "type": "node",
+      "id": 4531692619,
+      "lat": 54.3493678,
+      "lon": -6.6587113
+    },
+    {
+      "type": "node",
+      "id": 4531692620,
+      "lat": 54.3492445,
+      "lon": -6.6587023
+    },
+    {
+      "type": "node",
+      "id": 4531692621,
+      "lat": 54.3486324,
+      "lon": -6.6589255
+    },
+    {
+      "type": "node",
+      "id": 4531692622,
+      "lat": 54.3486135,
+      "lon": -6.6589125
+    },
+    {
+      "type": "node",
+      "id": 4531692623,
+      "lat": 54.3485267,
+      "lon": -6.6589319
+    },
+    {
+      "type": "node",
+      "id": 4531692624,
+      "lat": 54.3485248,
+      "lon": -6.6585692
+    },
+    {
+      "type": "node",
+      "id": 4531692625,
+      "lat": 54.3481982,
+      "lon": -6.6585465
+    },
+    {
+      "type": "node",
+      "id": 4531692626,
+      "lat": 54.3482945,
+      "lon": -6.6583101
+    },
+    {
+      "type": "node",
+      "id": 4531692627,
+      "lat": 54.3481907,
+      "lon": -6.6580931
+    },
+    {
+      "type": "node",
+      "id": 4531692628,
+      "lat": 54.3484908,
+      "lon": -6.6576818
+    },
+    {
+      "type": "node",
+      "id": 4531692629,
+      "lat": 54.3487079,
+      "lon": -6.6574
+    },
+    {
+      "type": "node",
+      "id": 4531692630,
+      "lat": 54.3489948,
+      "lon": -6.6572834
+    },
+    {
+      "type": "node",
+      "id": 4531692631,
+      "lat": 54.3492497,
+      "lon": -6.6574097
+    },
+    {
+      "type": "node",
+      "id": 4531692632,
+      "lat": 54.3492327,
+      "lon": -6.6575587
+    },
+    {
+      "type": "node",
+      "id": 4531692633,
+      "lat": 54.3492912,
+      "lon": -6.6576008
+    },
+    {
+      "type": "node",
+      "id": 4531698474,
+      "lat": 54.349261,
+      "lon": -6.6575791
+    },
+    {
+      "type": "node",
+      "id": 4531698475,
+      "lat": 54.3493955,
+      "lon": -6.6581316
+    },
+    {
+      "type": "node",
+      "id": 2454044912,
+      "lat": 54.2092311,
+      "lon": -5.9994565
+    },
+    {
+      "type": "node",
+      "id": 2454044914,
+      "lat": 54.2092248,
+      "lon": -5.9992519
+    },
+    {
+      "type": "node",
+      "id": 2454044920,
+      "lat": 54.2091798,
+      "lon": -5.9994151
+    },
+    {
+      "type": "node",
+      "id": 2454044922,
+      "lat": 54.209063,
+      "lon": -5.9991895
+    },
+    {
+      "type": "node",
+      "id": 2454044930,
+      "lat": 54.2092157,
+      "lon": -5.9995123
+    },
+    {
+      "type": "node",
+      "id": 2454044934,
+      "lat": 54.2091601,
+      "lon": -5.9992679
+    },
+    {
+      "type": "node",
+      "id": 2454044936,
+      "lat": 54.2091755,
+      "lon": -5.9992121
+    },
+    {
+      "type": "node",
+      "id": 2454044940,
+      "lat": 54.2090179,
+      "lon": -5.9993528
+    },
+    {
+      "type": "node",
+      "id": 2936995800,
+      "lat": 54.2136214,
+      "lon": -5.8865761
+    },
+    {
+      "type": "node",
+      "id": 2936996401,
+      "lat": 54.2136631,
+      "lon": -5.8867365
+    },
+    {
+      "type": "node",
+      "id": 2936996407,
+      "lat": 54.2138167,
+      "lon": -5.8864276
+    },
+    {
+      "type": "node",
+      "id": 2936996408,
+      "lat": 54.2138449,
+      "lon": -5.8864278
+    },
+    {
+      "type": "node",
+      "id": 2936996410,
+      "lat": 54.2138584,
+      "lon": -5.8865879
+    },
+    {
+      "type": "node",
+      "id": 2936996411,
+      "lat": 54.213901,
+      "lon": -5.8866821
+    },
+    {
+      "type": "node",
+      "id": 2936996412,
+      "lat": 54.2139259,
+      "lon": -5.8863755
+    },
+    {
+      "type": "node",
+      "id": 2936996413,
+      "lat": 54.2139407,
+      "lon": -5.8866565
+    },
+    {
+      "type": "node",
+      "id": 2936996414,
+      "lat": 54.2139464,
+      "lon": -5.8866821
+    },
+    {
+      "type": "node",
+      "id": 2936996415,
+      "lat": 54.2139539,
+      "lon": -5.8864161
+    },
+    {
+      "type": "node",
+      "id": 2936996416,
+      "lat": 54.2139876,
+      "lon": -5.8866555
+    },
+    {
+      "type": "node",
+      "id": 2936996417,
+      "lat": 54.2139991,
+      "lon": -5.8866371
+    },
+    {
+      "type": "node",
+      "id": 2936996418,
+      "lat": 54.2140191,
+      "lon": -5.8863771
+    },
+    {
+      "type": "node",
+      "id": 2936996419,
+      "lat": 54.2140643,
+      "lon": -5.886598
+    },
+    {
+      "type": "way",
+      "id": 570045773,
+      "nodes": [
+        4005870263,
+        5481021296,
+        5481021295,
+        5481021294,
+        5481021293,
+        5481021292,
+        5481021291,
+        5481021290,
+        5481021289,
+        5481021288,
+        5481021287,
+        5481021286
+      ]
+    },
+    {
+      "type": "way",
+      "id": 570045774,
+      "nodes": [
+        4005870263,
+        4005870260
+      ]
+    },
+    {
+      "type": "way",
+      "id": 570045775,
+      "nodes": [
+        5481021299,
+        5481021298,
+        5481021297,
+        4005870260
+      ]
+    },
+    {
+      "type": "way",
+      "id": 570315087,
+      "nodes": [
+        5483031260,
+        5481021299
+      ]
+    },
+    {
+      "type": "way",
+      "id": 570315088,
+      "nodes": [
+        5481021286,
+        5483031260
+      ]
+    },
+    {
+      "type": "way",
+      "id": 199711020,
+      "nodes": [
+        390360094,
+        2096948161,
+        2096948162,
+        5007224058,
+        2096948157,
+        2096948154,
+        5007224050,
+        2096948146,
+        2096948148,
+        2096948145,
+        2096948144,
+        5007224048,
+        2096948138,
+        2096948139,
+        2096948137,
+        2096948140,
+        2096948143,
+        2096948142,
+        2096948147,
+        2096948149,
+        2096948160,
+        2096948163,
+        2096948168,
+        2096948167,
+        2096948174,
+        2096948169
+      ]
+    },
+    {
+      "type": "way",
+      "id": 512032187,
+      "nodes": [
+        2096948169,
+        2096948172,
+        2096948186,
+        2096948200,
+        2096948179,
+        2096948184,
+        2096948195,
+        2096948202,
+        2096948191,
+        2096948201,
+        2096948197,
+        2096948187,
+        2096948183,
+        2096948180,
+        2096948173,
+        2096948171,
+        390360094
+      ]
+    },
+    {
+      "type": "way",
+      "id": 842217203,
+      "nodes": [
+        7857277647,
+        7857277646,
+        7857277641,
+        7857277643,
+        7857277642,
+        7857277647
+      ]
+    },
+    {
+      "type": "way",
+      "id": 233804068,
+      "nodes": [
+        7857277649,
+        7857277648,
+        2421339565,
+        2421339557,
+        2421339543,
+        2421339501,
+        7857277649
+      ]
+    },
+    {
+      "type": "way",
+      "id": 842217204,
+      "nodes": [
+        7857277648,
+        7857277646,
+        7857277647,
+        7857277649,
+        7857277648
+      ]
+    },
+    {
+      "type": "way",
+      "id": 302305049,
+      "nodes": [
+        3067966201,
+        3067966202,
+        3067966197,
+        3067966195,
+        3065628389,
+        3065628391,
+        3065628377,
+        3065628375,
+        3065628374,
+        3065628373,
+        3065628372,
+        3065628371,
+        3065628381,
+        3065628380,
+        3065628406,
+        3067966204,
+        3067966205,
+        3067966206,
+        3067966211,
+        3067966212,
+        3067966209,
+        3067966210,
+        3067966201
+      ]
+    },
+    {
+      "type": "way",
+      "id": 302548883,
+      "nodes": [
+        3067966187,
+        3067966198,
+        3067966196,
+        3065628383,
+        3065628386,
+        3067966187
+      ]
+    }
+  ]
+}

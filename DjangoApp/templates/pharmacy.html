@@ -1,0 +1,143 @@
+<title>Home</title>
+
+{% extends 'base.html' %}
+{% load leaflet_tags %}
+{% load static %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load crispy_forms_filters %}
+{% block head_title %}
+{% endblock %}
+
+
+{% block extra_header %}
+<style>
+#map {
+    width: 75%;
+    height: 50%;
+    margin: auto;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 180px;
+}
+
+
+button {
+    background: white;
+    border: solid black;
+    cursor: pointer;
+    font: 450 .75rem/1.25 'Montserrat', sans-serif;
+    margin: 0.5rem;
+    padding: 0.5em 0.75em;
+    position: relative;
+    text-transform: uppercase;
+}
+
+#campsite {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.btn btn-outline-primary {
+  display: inline-block;
+
+}
+
+</style>
+{% endblock %}
+
+{% block body_content %}
+
+{% if user.is_authenticated %}
+
+  <h4 style="text-align: center">Welcome to Health Clinics Ireland {{ user.username }}!</h4>
+        <h5 style="text-align: center">Your closest Health Clinics based on your current location are:</h5>
+
+    <a style="display: block; text-align: center; width: 20%; margin: auto;" class="btn btn-outline-primary" href="{% url 'maps' %}">Locate Clinics</a>
+
+    <a style="display: block; text-align: center; width: 20%; margin: auto;" class="btn btn-outline-primary" href="{% url 'pharmacy' %}">Locate Pharmacies</a>
+
+
+<br>
+
+<div>
+        <div id="map">
+        </div>
+<link href="{% static 'images/pharm_icon.png' %}" id="icon">
+        <script src="{% static 'gis/js/loadmap.js' %}"></script>
+
+<script>
+    var icon = document.getElementById('icon').href;
+                //document.write("<img src=\""+icon+"\"> ");
+                var iconMarker = L.icon({
+                    iconUrl: icon,
+                    iconSize:     [38, 38], // size of the icon
+                    iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+                    popupAnchor:  [-3, -76]
+                });
+
+                var pharm = '{{ pharmacies | safe }}';
+                console.log(pharm);
+
+                var pharms = JSON.parse(pharm);
+                var website;
+                var phone;
+                var open;
+
+                document.write("<div id=\"campsite\">" +
+                                "<h1>Nearby Pharmacy</h1>");
+
+                for (var i = 0; i < pharms.length; i++){
+                        if (pharms[i].fields.website == 'No website available'){
+                                website = 'No website available';
+                        } else {
+                                website = "href="+ pharms[i].fields.website;
+                        }
+
+                        if (pharms[i].fields.phone == 'no-phone'){
+                            phone = ''
+                        } else {
+                            phone = pharms[i].fields.phone
+                        }
+
+                        if (pharms[i].fields.opening_hours == 'no-opening_hours'){
+                            open = 'No opening hours available';
+                        } else {
+                            open = pharms[i].fields.opening_hours;
+                        }
+
+                        document.write("<div class=\"list-group\">" +
+                                        "<a " +website+ " class=\"list-group-item list-group-item-action flex-column align-items-start\"><h5 class=\"mb-1\">"
+                                         + pharms[i].fields.name + "</h5>" +
+                                        "<small class=\"text-muted\">"+ open +"</small>" +
+                                        "<p class=\"mb-1\">" +
+                                        phone +
+                                        "</p>" +
+                                        "<p class=\"mb-1\">" +
+                                        website +
+                                        "</p></a></div>");
+                        console.log(pharms[0].fields.name);
+
+                        L.marker([pharms[i].fields.lat, pharms[i].fields.lon], {icon:iconMarker}).addTo(map).bindPopup(
+                            "Name: " + pharms[i].fields.name +
+                            "<br>Opening Hours: " + open);
+                }
+
+                document.write("</div>");
+
+        </script>
+
+
+
+
+</div>
+{% else %}
+<div style="text-align: center">
+        <h4>Welcome to Health Clinics Ireland!</h4>
+    <p>In order for us to locate your closest health clinics you must sign in.</p>
+    <a class="btn btn-outline-primary" href="{% url 'login' %}">Sign In</a>
+</div>
+{% endif %}
+{% endblock %}

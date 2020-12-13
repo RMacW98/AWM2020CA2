@@ -1,0 +1,189 @@
+<title>Map</title>
+
+{% extends 'base.html' %}
+{% load leaflet_tags %}
+{% load static %}
+{% load i18n %}
+{% load crispy_forms_tags %}
+{% load crispy_forms_filters %}
+
+{% block head_title %}
+
+{% endblock %}
+
+
+{% block body_content %}
+<style>
+#map {
+    width: 100%;
+    height: 50%;
+}
+
+.formBlock {
+    max-width: 300px;
+    background-color: #FFF;
+    border: 1px solid #ddd;
+    position: fixed;
+    padding: 10px;
+    z-index: 999;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+    border-radius: 5px;
+    width: 100%;
+}
+
+.leaflet-top .leaflet-control {
+    margin-top: 180px;
+}
+
+.input {
+    padding: 10px;
+    width: 100%;
+    border: 1px solid #ddd;
+    font-size: 15px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+#form {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    background: white;
+    border: solid black;
+    cursor: pointer;
+    font: 450 .75rem/1.25 'Montserrat', sans-serif;
+    margin: 0.5rem;
+    padding: 0.5em 0.75em;
+    position: relative;
+    text-transform: uppercase;
+}
+
+#campsite {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+</style>
+
+
+
+<div>
+    <div class="formBlock">
+            <form id="form">
+                <input type="text" name="start" class="input" id="start" placeholder="Choose starting point" />
+                <input type="text" name="end" class="input" id="destination" placeholder="Choose starting point" />
+                <button type="submit">Get Directions</button>
+            </form>
+        </div>
+
+
+        <div id="map"></div>
+
+        <script src="{% static 'gis/js/campsites.js' %}"></script>
+        <script src="{% static 'gis/js/getGeoJson.js' %}"></script>
+
+        <script type="text/javascript">
+            var actuals = '{{ campsites | safe }}';
+             console.log(actuals);
+
+            var actuals = JSON.parse(actuals)
+
+            console.log(actuals[0].fields.name);
+
+            document.write("<div id=\"campsite\">" +
+                "<h1>Nearby Campsites</h1>");
+
+            for (var i = 0; i < actuals.length; i++){
+                document.write(actuals[i].fields.name + "<br>");
+
+                L.marker([actuals[i].fields.lat, actuals[i].fields.lon]).addTo(map).bindPopup("I am a green leaf.");
+            }
+
+            document.write("</div>");
+        </script>
+
+        <script>
+            $('#location-button'.click(function(){
+
+                if (navigator.geolocation) {
+                    navigator.geolocation.getCurrentPosition(function(position){
+                        console.log(position);
+                    });
+                } else {
+                    console.log("No working");
+                }
+            }));
+        </script>
+
+
+      <script type="text/javascript">
+          var HOST = location.protocol + "//" + location.host;
+          var locationMarker;
+          var circle;
+          var lat1;
+          var lon1;
+            var map;
+
+          $("#map").css({
+            "width": "50%",
+            "height": $(document).height() - ($("#header").height() + $("#footer").height() + 45)
+          });
+
+          function map_init_basic(map, options) {
+            var pos;
+            map.setView([53, -6.1], 11);
+
+            map.on('touchstart click dblclick ',
+                    function () {
+                        addmark();
+                        L.marker([lat1, lon1]).addTo(map);
+                        L.marker([53, -6.1]).addTo(map);
+                    });
+
+          }
+
+          function addmark() {
+              var url = "http://127.0.0.1:8000/rest/campsite/?format=json"
+
+            $.getJSON(url, function(data){
+                console.log(data[0].name);
+                name1 = data[0].name;
+                lat1 = data[0].lat;
+                lon1 = data[0].lon;
+
+                var newMarker = new L.marker([lat1, lon1]).addTo(map);
+                newMarker;
+              });
+          }
+
+
+
+    </script>
+{% leaflet_map "map" callback="window.map_init_basic" %}
+</div>
+
+
+<div id="campsite">
+    <h1>Nearby Campsites</h1>
+
+    <ul class="list-group list-group-flush">
+    {% for campsite in campsites %}
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            {{ campsite.name }}
+            {{ campsite.lat }}
+            {{ campsite.lon }}
+            <span class="badge badge-primary badge-pill">
+                {{ campsite.distance }}
+            </span>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+
+
+
+
+{% endblock %}
